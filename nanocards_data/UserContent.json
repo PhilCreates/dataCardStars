@@ -9,7 +9,7 @@
               "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
               "Cases": [
                 {
-                  "name": "Abitur Baden-Württemberg",
+                  "name": "Abitur Baden-WÃ¼rttemberg",
                   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placeholder_book.svg/1200px-Placeholder_book.svg.png",
                   "Books": [
                     {
@@ -25,7 +25,7 @@
         "Browse": {
           "Boxes": [
             {
-              "name": "Lektüre",
+              "name": "LektÃ¼re",
               "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
               "Decks": [
                 {
@@ -38,11 +38,11 @@
                   "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
                   "Cards": [
                     {
-                      "name": "Die Gelehrtentragödie",
+                      "name": "Die GelehrtentragÃ¶die",
                       "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png"
                     },
                     {
-                      "name": "Die Gretchentragödie",
+                      "name": "Die GretchentragÃ¶die",
                       "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
                     }
                   ]
@@ -52,22 +52,22 @@
           ]
         },
         "Cards": [
-            {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
+            {"cardName": "GelehrtentragÃ¶die", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
             {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg"},
-            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
+            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
         ],
         "Quiz": [
             {
                 "cardName": "Frage 1",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
+                    "cardQuizQuestion": "Was ist das Hauptthema der GelehrtentragÃ¶die in Goethes 'Faust 1'?",
                     "cardQuizOptions": {
-                        "a": "Die Suche nach Liebe und Glück",
+                        "a": "Die Suche nach Liebe und GlÃ¼ck",
                         "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
+                    "cardQuizExplanation": "Die GelehrtentragÃ¶die in 'Faust 1' dreht sich hauptsÃ¤chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -75,13 +75,13 @@
                 "cardName": "Frage 2",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Wer ist Fausts Assistent in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
                         "a": "Mephistopheles",
                         "b": "Wagner"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der GelehrtentragÃ¶die, und er verkÃ¶rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -89,13 +89,13 @@
                 "cardName": "Frage 3",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
+                    "cardQuizQuestion": "Welcher Schauplatz ist fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' besonders bedeutend?",
                     "cardQuizOptions": {
                         "a": "Das Dorf",
                         "b": "Das Studierzimmer"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -103,13 +103,13 @@
                 "cardName": "Frage 4",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
                         "a": "Er ist Fausts bester Freund",
-                        "b": "Er ist der Teufel, der Faust verführt und begleitet"
+                        "b": "Er ist der Teufel, der Faust verfÃ¼hrt und begleitet"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
+                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt, was zu Fausts innerem Konflikt beitrÃ¤gt."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -117,13 +117,13 @@
                 "cardName": "Frage 5",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
-                        "a": "Er erreicht ewiges Glück und Frieden",
+                        "a": "Er erreicht ewiges GlÃ¼ck und Frieden",
                         "b": "Er bleibt unzufrieden und verzweifelt"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
+                    "cardQuizExplanation": "In der GelehrtentragÃ¶die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte ErfÃ¼llung in seinen wissenschaftlichen BemÃ¼hungen findet."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             }
@@ -139,7 +139,7 @@
               "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
               "Cases": [
                 {
-                  "name": "Abitur Baden-Württemberg",
+                  "name": "Abitur Baden-WÃ¼rttemberg",
                   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placeholder_book.svg/1200px-Placeholder_book.svg.png",
                   "Books": [
                     {
@@ -155,7 +155,7 @@
         "Browse": {
           "Boxes": [
             {
-              "name": "Lektüre",
+              "name": "LektÃ¼re",
               "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
               "Decks": [
                 {
@@ -168,11 +168,11 @@
                   "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
                   "Cards": [
                     {
-                      "name": "Die Gelehrtentragödie",
+                      "name": "Die GelehrtentragÃ¶die",
                       "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png"
                     },
                     {
-                      "name": "Die Gretchentragödie",
+                      "name": "Die GretchentragÃ¶die",
                       "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
                     }
                   ]
@@ -182,22 +182,22 @@
           ]
         },
         "Cards": [
-            {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "assets/images/Default/studierzimmer.jpg"},
+            {"cardName": "GelehrtentragÃ¶die", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung darstellt.", "cardImg": "assets/images/Default/studierzimmer.jpg"},
             {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "assets/images/Default/studierzimmer.jpg"},
-            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "assets/images/Default/mephisto.jpg"}
+            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt.", "cardImg": "assets/images/Default/mephisto.jpg"}
         ],
         "Quiz": [
             {
                 "cardName": "Frage 1",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
+                    "cardQuizQuestion": "Was ist das Hauptthema der GelehrtentragÃ¶die in Goethes 'Faust 1'?",
                     "cardQuizOptions": {
-                        "a": "Die Suche nach Liebe und Glück",
+                        "a": "Die Suche nach Liebe und GlÃ¼ck",
                         "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
+                    "cardQuizExplanation": "Die GelehrtentragÃ¶die in 'Faust 1' dreht sich hauptsÃ¤chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -205,13 +205,13 @@
                 "cardName": "Frage 2",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Wer ist Fausts Assistent in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
                         "a": "Mephistopheles",
                         "b": "Wagner"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der GelehrtentragÃ¶die, und er verkÃ¶rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -219,13 +219,13 @@
                 "cardName": "Frage 3",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
+                    "cardQuizQuestion": "Welcher Schauplatz ist fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' besonders bedeutend?",
                     "cardQuizOptions": {
                         "a": "Das Dorf",
                         "b": "Das Studierzimmer"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -233,13 +233,13 @@
                 "cardName": "Frage 4",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
                         "a": "Er ist Fausts bester Freund",
-                        "b": "Er ist der Teufel, der Faust verführt und begleitet"
+                        "b": "Er ist der Teufel, der Faust verfÃ¼hrt und begleitet"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
+                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt, was zu Fausts innerem Konflikt beitrÃ¤gt."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -247,13 +247,13 @@
                 "cardName": "Frage 5",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
+                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der GelehrtentragÃ¶die?",
                     "cardQuizOptions": {
-                        "a": "Er erreicht ewiges Glück und Frieden",
+                        "a": "Er erreicht ewiges GlÃ¼ck und Frieden",
                         "b": "Er bleibt unzufrieden und verzweifelt"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
+                    "cardQuizExplanation": "In der GelehrtentragÃ¶die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte ErfÃ¼llung in seinen wissenschaftlichen BemÃ¼hungen findet."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             }
@@ -265,19 +265,19 @@
         "Collection": {
           "Libraries": [
             {
-              "name": "Reglemente / Handbücher / Richtlinien",
+              "name": "Reglemente / HandbÃ¼cher / Richtlinien",
               "image": "assets/images/FKS/Handbuecher.png",
               "Cases": [
                 {
-                  "name": "ABC-Einsätze",
-                  "image": "assets/images/FKS/ABC-Einsätze.png",
+                  "name": "ABC-EinsÃ¤tze",
+                  "image": "assets/images/FKS/ABC-EinsÃ¤tze.png",
                   "Books": [
                     {
-                      "name": "Handbuch für ABC-Einsätze",
+                      "name": "Handbuch fÃ¼r ABC-EinsÃ¤tze",
                       "image": "assets/images/FKS/ABC Handbuch DE.png"
                     },
                     {
-                      "name": "Faltkarten für ABC-Einsätze",
+                      "name": "Faltkarten fÃ¼r ABC-EinsÃ¤tze",
                       "image": "assets/images/FKS/ABCFaltkartenDE.png"
                     }
                   ]
@@ -293,11 +293,11 @@
                   ]
                 },
                 {
-                  "name": "Geschäftsberichte",
+                  "name": "GeschÃ¤ftsberichte",
                   "image": "assets/images/FKS/FKS_Geschaeftsberichte.png",
                   "Books": [
                     {
-                      "name": "FKS Geschäftsbericht 2022",
+                      "name": "FKS GeschÃ¤ftsbericht 2022",
                       "image": "assets/images/FKS/FKS_Geschaeftsbericht_2022_de.png"
                     }
                   ]
@@ -364,7 +364,7 @@
                                         "image": "assets/images/cards.png"
                                     },
                                     {
-                                        "name": "2.3.3 Aufgebot der Ressourcen und Mittel (Übermittlung des Alarms)",
+                                        "name": "2.3.3 Aufgebot der Ressourcen und Mittel (Ãœbermittlung des Alarms)",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
@@ -382,7 +382,7 @@
                                         "image": "assets/images/cards.png"
                                     },
                                     {
-                                        "name": "2.4.2 Ausrücken",
+                                        "name": "2.4.2 AusrÃ¼cken",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
@@ -396,7 +396,7 @@
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
-                                        "name": "2.5.1 Notwendige Elemente der Einsatzführung",
+                                        "name": "2.5.1 Notwendige Elemente der EinsatzfÃ¼hrung",
                                         "image": "assets/images/cards.png"
                                     }
                                 ]
@@ -409,16 +409,16 @@
                         ]
                     },
                     {
-                        "name": "3 Führungsrhythmus",
+                        "name": "3 FÃ¼hrungsrhythmus",
                         "image": "https://cdn-icons-png.flaticon.com/512/860/860472.png",
                         "Decks": [
                             {
-                                "name": "3.1 Führungsablauf",
+                                "name": "3.1 FÃ¼hrungsablauf",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
                             {
-                                "name": "3.2 Führungsspirale",
+                                "name": "3.2 FÃ¼hrungsspirale",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
@@ -468,11 +468,11 @@
                         ]
                     },
                     {
-                        "name": "4 Gebäudebrand",
+                        "name": "4 GebÃ¤udebrand",
                         "image": "https://cdn-icons-png.flaticon.com/512/3433/3433450.png",
                         "Decks": [
                             {
-                                "name": "4.1 Grundsätze bei Gebäudebränden",
+                                "name": "4.1 GrundsÃ¤tze bei GebÃ¤udebrÃ¤nden",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
@@ -482,7 +482,7 @@
                                 "Cards": []
                             },
                             {
-                                "name": "4.3 Orts- und Gebäudekenntnisse",
+                                "name": "4.3 Orts- und GebÃ¤udekenntnisse",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
@@ -495,7 +495,7 @@
                                         "image": "assets/images/cards.png"
                                     },
                                     {
-                                        "name": "4.4.2 Übungsvorbereitung",
+                                        "name": "4.4.2 Ãœbungsvorbereitung",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
@@ -505,15 +505,15 @@
                                 ]
                             },
                             {
-                                "name": "4.5 Einsatzrelevante Punkte bei Gebäudebränden",
+                                "name": "4.5 Einsatzrelevante Punkte bei GebÃ¤udebrÃ¤nden",
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
-                                        "name": "4.5.1 Rauch- und Wärmeentwicklung",
+                                        "name": "4.5.1 Rauch- und WÃ¤rmeentwicklung",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
-                                        "name": "4.5.2 Verhalten von Gebäudeteilen",
+                                        "name": "4.5.2 Verhalten von GebÃ¤udeteilen",
                                         "image": "assets/images/cards.png"
                                     }
                                 ]
@@ -524,7 +524,7 @@
                                 "Cards": []
                             },
                             {
-                                "name": "4.7 Brandschutz für den Einsatzleiter",
+                                "name": "4.7 Brandschutz fÃ¼r den Einsatzleiter",
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
@@ -550,7 +550,7 @@
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
-                                        "name": "4.8.1 Gebäudekonstruktion",
+                                        "name": "4.8.1 GebÃ¤udekonstruktion",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
@@ -564,7 +564,7 @@
                                 ]
                             },
                             {
-                                "name": "4.9 Löschwasserversorgung",
+                                "name": "4.9 LÃ¶schwasserversorgung",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             }
@@ -575,7 +575,7 @@
                         "image": "https://cdn-icons-png.flaticon.com/512/4116/4116265.png",
                         "Decks": [
                             {
-                                "name": "5.1 Grundsätzliches",
+                                "name": "5.1 GrundsÃ¤tzliches",
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
@@ -589,17 +589,17 @@
                                 ]
                             },
                             {
-                                "name": "5.2 Führung",
+                                "name": "5.2 FÃ¼hrung",
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
-                                        "name": "5.2.1 Führungstraining",
+                                        "name": "5.2.1 FÃ¼hrungstraining",
                                         "image": "assets/images/cards.png"
                                     }
                                 ]
                             },
                             {
-                                "name": "5.3 Entscheidungsfähigkeit",
+                                "name": "5.3 EntscheidungsfÃ¤higkeit",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
@@ -622,7 +622,7 @@
                                 ]
                             },
                             {
-                                "name": "5.5 Übungsvorbereitung",
+                                "name": "5.5 Ãœbungsvorbereitung",
                                 "image": "assets/images/decks.png",
                                 "Cards": []
                             },
@@ -631,13 +631,13 @@
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
-                                        "name": "5.6.1 Ablauf Übungsbesprechung",
+                                        "name": "5.6.1 Ablauf Ãœbungsbesprechung",
                                         "image": "assets/images/cards.png"
                                     }
                                 ]
                             },
                             {
-                                "name": "5.7 Markierungsmöglichkeiten und grafische Darstellung",
+                                "name": "5.7 MarkierungsmÃ¶glichkeiten und grafische Darstellung",
                                 "image": "assets/images/decks.png",
                                 "Cards": [
                                     {
@@ -645,7 +645,7 @@
                                         "image": "assets/images/cards.png"
                                     },
                                     {
-                                        "name": "5.7.2 Beispiel Gebäudebrand",
+                                        "name": "5.7.2 Beispiel GebÃ¤udebrand",
                                         "image": "assets/images/cards.png"
                                     },
                                     {
@@ -667,11 +667,11 @@
                 ]
         },
                     "Cards": [
-            {"cardName": "Durchflussmengen", "cardType": "Begriff", "cardDesc": "Leistung der Versorgung, üblicherweise in Liter pro Minute angegeben.", "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"},
-            {"cardName": "Hydrant", "cardType": "Begriff", "cardDesc": "Wasserentnahmearmatur zur Brandbekämpfung.", "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"},
-            {"cardName": "Löschwasser", "cardType": "Begriff", "cardDesc": "Wasser, das zum Bekämpfen von Bränden dient.", "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"},
+            {"cardName": "Durchflussmengen", "cardType": "Begriff", "cardDesc": "Leistung der Versorgung, Ã¼blicherweise in Liter pro Minute angegeben.", "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"},
+            {"cardName": "Hydrant", "cardType": "Begriff", "cardDesc": "Wasserentnahmearmatur zur BrandbekÃ¤mpfung.", "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"},
+            {"cardName": "LÃ¶schwasser", "cardType": "Begriff", "cardDesc": "Wasser, das zum BekÃ¤mpfen von BrÃ¤nden dient.", "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"},
             {"cardName": "Seewasserwerke", "cardType": "Begriff", "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.", "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"},
-            {"cardName": "Reservoir", "cardType": "Begriff", "cardDesc": "Speicher für Trink-, Brauch- und Löschwasser.", "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"}
+            {"cardName": "Reservoir", "cardType": "Begriff", "cardDesc": "Speicher fÃ¼r Trink-, Brauch- und LÃ¶schwasser.", "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"}
         ],
         "Quiz": [
               {
@@ -681,10 +681,10 @@
                   "cardQuizQuestion": "Was ist das Hauptziel der Brandfallsteuerung in einem Wasserversorgungssystem?",
                   "cardQuizOptions": {
                     "a": "Reduzierung des Wasserverbrauchs",
-                    "b": "Aktivierung und Steuerung der Löschreserve"
+                    "b": "Aktivierung und Steuerung der LÃ¶schreserve"
                   },
                   "cardQuizSolution": "b",
-                  "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der benötigten Löschreserve sowie weiterer Maßnahmen."
+                  "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der benÃ¶tigten LÃ¶schreserve sowie weiterer MaÃŸnahmen."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
               },
@@ -692,13 +692,13 @@
                 "cardName": "Frage 2",
                 "cardType": "Question",
                 "cardQuiz": {
-                  "cardQuizQuestion": "Was ist der primäre Zweck der Brauchreserve in einem Wasserversorgungssystem?",
+                  "cardQuizQuestion": "Was ist der primÃ¤re Zweck der Brauchreserve in einem Wasserversorgungssystem?",
                   "cardQuizOptions": {
-                    "a": "Deckung von Spitzenverbräuchen",
+                    "a": "Deckung von SpitzenverbrÃ¤uchen",
                     "b": "Speicherung von Trinkwasser"
                   },
                   "cardQuizSolution": "a",
-                  "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir für den normalen Verbrauch und der Spitzenabdeckung."
+                  "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir fÃ¼r den normalen Verbrauch und der Spitzenabdeckung."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
               },
@@ -712,7 +712,7 @@
                     "b": "In Litern pro Minute"
                   },
                   "cardQuizSolution": "b",
-                  "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden üblicherweise in Litern pro Minute angegeben."
+                  "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden Ã¼blicherweise in Litern pro Minute angegeben."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
               },
@@ -722,7 +722,7 @@
                 "cardQuiz": {
                   "cardQuizQuestion": "Wodurch sind Druckzonen in einem Wasserversorgungssystem charakterisiert?",
                   "cardQuizOptions": {
-                    "a": "Durch unterschiedliche Wasserqualität",
+                    "a": "Durch unterschiedliche WasserqualitÃ¤t",
                     "b": "Durch unterschiedlichen Wasserdruck"
                   },
                   "cardQuizSolution": "b",
@@ -734,13 +734,13 @@
                 "cardName": "Frage 5",
                 "cardType": "Question",
                 "cardQuiz": {
-                  "cardQuizQuestion": "Wofür steht das Kürzel 'GWP' in Bezug auf die Wasserversorgung?",
+                  "cardQuizQuestion": "WofÃ¼r steht das KÃ¼rzel 'GWP' in Bezug auf die Wasserversorgung?",
                   "cardQuizOptions": {
                     "a": "Globales Wasserschutzprotokoll",
                     "b": "Generelle Wasserversorgungsplanung"
                   },
                   "cardQuizSolution": "b",
-                  "cardQuizExplanation": "GWP steht für 'Generelle Wasserversorgungsplanung'."
+                  "cardQuizExplanation": "GWP steht fÃ¼r 'Generelle Wasserversorgungsplanung'."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
               }
@@ -812,8 +812,8 @@
         "Cards": [
             {
                 "cardName": "Wintersport",
-                "cardType": "Aktivität",
-                "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                "cardType": "AktivitÃ¤t",
+                "cardDesc": "St. Moritz ist ein beliebtes Ziel fÃ¼r WintersportaktivitÃ¤ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
                 "cardImg": "assets/images/Grace/st. moritz.png"
             },
             {
@@ -825,7 +825,7 @@
             {
                 "cardName": "Luxusresorts",
                 "cardType": "Unterkunft",
-                "cardDesc": "St. Moritz ist berühmt für seine luxuriösen Resorts und Hotels, die Gästen einen erstklassigen Service und Komfort bieten.",
+                "cardDesc": "St. Moritz ist berÃ¼hmt fÃ¼r seine luxuriÃ¶sen Resorts und Hotels, die GÃ¤sten einen erstklassigen Service und Komfort bieten.",
                 "cardImg": "assets/images/Grace/st. moritz.png"
             }
         ],
@@ -837,10 +837,10 @@
                     "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
                     "cardQuizOptions": {
                         "a": "Bern",
-                        "b": "Graubünden"
+                        "b": "GraubÃ¼nden"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graubünden in der Schweiz."
+                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton GraubÃ¼nden in der Schweiz."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -854,7 +854,7 @@
                         "b": "Wintersporttourismus"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz ist besonders für den Wintersporttourismus bekannt, insbesondere für Skifahren und Snowboarden."
+                    "cardQuizExplanation": "St. Moritz ist besonders fÃ¼r den Wintersporttourismus bekannt, insbesondere fÃ¼r Skifahren und Snowboarden."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -862,13 +862,13 @@
                 "cardName": "Frage 3",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmäßig in St. Moritz statt?",
+                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmÃ¤ÃŸig in St. Moritz statt?",
                     "cardQuizOptions": {
                         "a": "Internationales Filmfestival",
                         "b": "Polo on Snow"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmäßig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmÃ¤ÃŸig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -876,13 +876,13 @@
                 "cardName": "Frage 4",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel für Reiche und Prominente?",
+                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel fÃ¼r Reiche und Prominente?",
                     "cardQuizOptions": {
-                        "a": "Günstige Preise",
+                        "a": "GÃ¼nstige Preise",
                         "b": "Exklusive Luxusresorts und -hotels"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz ist bekannt für seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel für Reiche und Prominente machen."
+                    "cardQuizExplanation": "St. Moritz ist bekannt fÃ¼r seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel fÃ¼r Reiche und Prominente machen."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -890,13 +890,13 @@
                 "cardName": "Frage 5",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsächlich gesprochen?",
+                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsÃ¤chlich gesprochen?",
                     "cardQuizOptions": {
-                        "a": "Französisch",
-                        "b": "Rätoromanisch und Deutsch"
+                        "a": "FranzÃ¶sisch",
+                        "b": "RÃ¤toromanisch und Deutsch"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "In St. Moritz werden hauptsächlich Rätoromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graubünden."
+                    "cardQuizExplanation": "In St. Moritz werden hauptsÃ¤chlich RÃ¤toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton GraubÃ¼nden."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             }
@@ -948,8 +948,8 @@
         "Cards": [
             {
                 "cardName": "Wintersport",
-                "cardType": "Aktivität",
-                "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                "cardType": "AktivitÃ¤t",
+                "cardDesc": "St. Moritz ist ein beliebtes Ziel fÃ¼r WintersportaktivitÃ¤ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
                 "cardImg": "assets/images/Grace/st. moritz.png"
             },
             {
@@ -961,7 +961,7 @@
             {
                 "cardName": "Luxusresorts",
                 "cardType": "Unterkunft",
-                "cardDesc": "St. Moritz ist berühmt für seine luxuriösen Resorts und Hotels, die Gästen einen erstklassigen Service und Komfort bieten.",
+                "cardDesc": "St. Moritz ist berÃ¼hmt fÃ¼r seine luxuriÃ¶sen Resorts und Hotels, die GÃ¤sten einen erstklassigen Service und Komfort bieten.",
                 "cardImg": "assets/images/Grace/st. moritz.png"
             }
         ],
@@ -973,10 +973,10 @@
                     "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
                     "cardQuizOptions": {
                         "a": "Bern",
-                        "b": "Graubünden"
+                        "b": "GraubÃ¼nden"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graubünden in der Schweiz."
+                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton GraubÃ¼nden in der Schweiz."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -990,7 +990,7 @@
                         "b": "Wintersporttourismus"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz ist besonders für den Wintersporttourismus bekannt, insbesondere für Skifahren und Snowboarden."
+                    "cardQuizExplanation": "St. Moritz ist besonders fÃ¼r den Wintersporttourismus bekannt, insbesondere fÃ¼r Skifahren und Snowboarden."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -998,13 +998,13 @@
                 "cardName": "Frage 3",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmäßig in St. Moritz statt?",
+                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmÃ¤ÃŸig in St. Moritz statt?",
                     "cardQuizOptions": {
                         "a": "Internationales Filmfestival",
                         "b": "Polo on Snow"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmäßig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmÃ¤ÃŸig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1012,13 +1012,13 @@
                 "cardName": "Frage 4",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel für Reiche und Prominente?",
+                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel fÃ¼r Reiche und Prominente?",
                     "cardQuizOptions": {
-                        "a": "Günstige Preise",
+                        "a": "GÃ¼nstige Preise",
                         "b": "Exklusive Luxusresorts und -hotels"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "St. Moritz ist bekannt für seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel für Reiche und Prominente machen."
+                    "cardQuizExplanation": "St. Moritz ist bekannt fÃ¼r seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel fÃ¼r Reiche und Prominente machen."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1026,13 +1026,13 @@
                 "cardName": "Frage 5",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsächlich gesprochen?",
+                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsÃ¤chlich gesprochen?",
                     "cardQuizOptions": {
-                        "a": "Französisch",
-                        "b": "Rätoromanisch und Deutsch"
+                        "a": "FranzÃ¶sisch",
+                        "b": "RÃ¤toromanisch und Deutsch"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "In St. Moritz werden hauptsächlich Rätoromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graubünden."
+                    "cardQuizExplanation": "In St. Moritz werden hauptsÃ¤chlich RÃ¤toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton GraubÃ¼nden."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             }
@@ -1052,11 +1052,11 @@
                             "image": "assets/images/Snowboarding/basics.jpg",
                             "Books": [
                                 {
-                                    "name": "Einführung ins Snowboarden",
+                                    "name": "EinfÃ¼hrung ins Snowboarden",
                                     "image": "assets/images/Snowboarding/introduction.jpg"
                                 },
                                 {
-                                    "name": "Snowboard-Ausrüstung",
+                                    "name": "Snowboard-AusrÃ¼stung",
                                     "image": "assets/images/Snowboarding/equipment.jpg"
                                 },
                                 {
@@ -1111,19 +1111,19 @@
             {
                 "cardName": "Snowboarden",
                 "cardType": "Sport",
-                "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abhänge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
+                "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die AbhÃ¤nge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
                 "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
             },
             {
                 "cardName": "Snowboard",
-                "cardType": "Ausrüstung",
+                "cardType": "AusrÃ¼stung",
                 "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
                 "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
             },
             {
                 "cardName": "Halfpipe",
                 "cardType": "Fahrtstrecke",
-                "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneeröhre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Sprünge auszuführen. Halfpipes sind Teil von Snowparks.",
+                "cardDesc": "Eine Halfpipe ist eine speziell geformte SchneerÃ¶hre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und SprÃ¼nge auszufÃ¼hren. Halfpipes sind Teil von Snowparks.",
                 "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
             }
         ],
@@ -1132,13 +1132,13 @@
                 "cardName": "Frage 1",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' für das erste Snowboard?",
+                    "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' fÃ¼r das erste Snowboard?",
                     "cardQuizOptions": {
                         "a": "Eine Kombination aus 'Snow' und 'Surf'",
-                        "b": "Die Abkürzung für 'Snow Rider'"
+                        "b": "Die AbkÃ¼rzung fÃ¼r 'Snow Rider'"
                     },
                     "cardQuizSolution": "a",
-                    "cardQuizExplanation": "Der Name 'Snurfer' für das erste Snowboard stammt von der Kombination der Wörter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
+                    "cardQuizExplanation": "Der Name 'Snurfer' fÃ¼r das erste Snowboard stammt von der Kombination der WÃ¶rter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1146,13 +1146,13 @@
                 "cardName": "Frage 2",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Wer wird in der Geschichte oft für die Erfindung des Snowboards genannt?",
+                    "cardQuizQuestion": "Wer wird in der Geschichte oft fÃ¼r die Erfindung des Snowboards genannt?",
                     "cardQuizOptions": {
                         "a": "Sherman Poppen",
                         "b": "Sherman Skier"
                     },
                     "cardQuizSolution": "a",
-                    "cardQuizExplanation": "Sherman Poppen wird oft für die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
+                    "cardQuizExplanation": "Sherman Poppen wird oft fÃ¼r die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1160,13 +1160,13 @@
                 "cardName": "Frage 3",
                 "cardType": "Question",
                 "cardQuiz": {
-                    "cardQuizQuestion": "Was war ursprünglich der Zweck der Erfindung des Snowboards?",
+                    "cardQuizQuestion": "Was war ursprÃ¼nglich der Zweck der Erfindung des Snowboards?",
                     "cardQuizOptions": {
-                        "a": "Ein Spaßgerät für Kinder im Schnee",
-                        "b": "Eine Alternative zum Skifahren für Erwachsene"
+                        "a": "Ein SpaÃŸgerÃ¤t fÃ¼r Kinder im Schnee",
+                        "b": "Eine Alternative zum Skifahren fÃ¼r Erwachsene"
                     },
                     "cardQuizSolution": "a",
-                    "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den ursprünglichen Zweck, ein unterhaltsames Gerät für seine Töchter im Schnee zu schaffen."
+                    "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den ursprÃ¼nglichen Zweck, ein unterhaltsames GerÃ¤t fÃ¼r seine TÃ¶chter im Schnee zu schaffen."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1180,7 +1180,7 @@
                         "b": "Snurfer"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den Wörtern 'Snow' und 'Surf'."
+                    "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den WÃ¶rtern 'Snow' und 'Surf'."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             },
@@ -1191,10 +1191,10 @@
                     "cardQuizQuestion": "Warum wird das erste Snowboard oft als 'Snurfer' bezeichnet?",
                     "cardQuizOptions": {
                         "a": "Weil es wie ein Surfbrett aussah",
-                        "b": "Weil es sich auf dem Schnee surfen ließ"
+                        "b": "Weil es sich auf dem Schnee surfen lieÃŸ"
                     },
                     "cardQuizSolution": "b",
-                    "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen ließ und Elemente des Surfens enthielt."
+                    "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen lieÃŸ und Elemente des Surfens enthielt."
                 },
                 "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
             }
