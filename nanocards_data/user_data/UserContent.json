@@ -144,22 +144,22 @@
           ]
         },
                     "Cards": [
-                {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
+                {"cardName": "GelehrtentragÃ¶die", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
                 {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg"},
-                {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
+                {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
             ],
             "Quiz": [
                 {
                     "cardName": "Frage 1",
                     "cardType": "Question",
                     "cardQuiz": {
-                        "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
+                        "cardQuizQuestion": "Was ist das Hauptthema der GelehrtentragÃ¶die in Goethes 'Faust 1'?",
                         "cardQuizOptions": {
-                            "a": "Die Suche nach Liebe und Glück",
+                            "a": "Die Suche nach Liebe und GlÃ¼ck",
                             "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
                         },
                         "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
+                        "cardQuizExplanation": "Die GelehrtentragÃ¶die in 'Faust 1' dreht sich hauptsÃ¤chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und ErfÃ¼llung."
                     },
                     "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                 },
@@ -167,13 +167,13 @@
                     "cardName": "Frage 2",
                     "cardType": "Question",
                     "cardQuiz": {
-                        "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
+                        "cardQuizQuestion": "Wer ist Fausts Assistent in der GelehrtentragÃ¶die?",
                         "cardQuizOptions": {
                             "a": "Mephistopheles",
                             "b": "Wagner"
                         },
                         "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                        "cardQuizExplanation": "Wagner ist Fausts Assistent in der GelehrtentragÃ¶die, und er verkÃ¶rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
                     },
                     "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                 },
@@ -181,13 +181,13 @@
                     "cardName": "Frage 3",
                     "cardType": "Question",
                     "cardQuiz": {
-                        "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
+                        "cardQuizQuestion": "Welcher Schauplatz ist fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' besonders bedeutend?",
                         "cardQuizOptions": {
                             "a": "Das Dorf",
                             "b": "Das Studierzimmer"
                         },
                         "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                        "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz fÃ¼r die GelehrtentragÃ¶die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
                     },
                     "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                 },
@@ -195,13 +195,13 @@
                     "cardName": "Frage 4",
                     "cardType": "Question",
                     "cardQuiz": {
-                        "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
+                        "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der GelehrtentragÃ¶die?",
                         "cardQuizOptions": {
                             "a": "Er ist Fausts bester Freund",
-                            "b": "Er ist der Teufel, der Faust verführt und begleitet"
+                            "b": "Er ist der Teufel, der Faust verfÃ¼hrt und begleitet"
                         },
                         "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
+                        "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer fÃ¼hrt, was zu Fausts innerem Konflikt beitrÃ¤gt."
                     },
                     "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                 },
@@ -209,13 +209,13 @@
                     "cardName": "Frage 5",
                     "cardType": "Question",
                     "cardQuiz": {
-                        "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
+                        "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der GelehrtentragÃ¶die?",
                         "cardQuizOptions": {
-                            "a": "Er erreicht ewiges Glück und Frieden",
+                            "a": "Er erreicht ewiges GlÃ¼ck und Frieden",
                             "b": "Er bleibt unzufrieden und verzweifelt"
                         },
                         "cardQuizSolution": "b",
-                        "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
+                        "cardQuizExplanation": "In der GelehrtentragÃ¶die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte ErfÃ¼llung in seinen wissenschaftlichen BemÃ¼hungen findet."
                     },
                     "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                 }
