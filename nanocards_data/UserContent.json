@@ -772,8 +772,9 @@
         "Browse": {
           "Boxes": [
             {
-              "name": "Box 0",
+              "name": "Box 1",
               "image": "assets/images/boxes00.png",
+              "stars": "0",
               "Decks": [
                 {
                   "name": "Set 1.1",

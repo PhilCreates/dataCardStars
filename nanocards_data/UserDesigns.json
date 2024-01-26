@@ -34,7 +34,7 @@
       "Designs": {
         "corporate_name": "Hotel Grace St. Moritz",
         "corporate_image_url": "assets/images/Grace/hotel-grace-logo.png",
-        "color_corporate_first": "#FF0000",
+        "color_corporate_first": "#000000",
         "color_corporate_second": "#FFFFFF",
         "color_corporate_third": "#FFFFFF",
         "color_corporate_title": "#000000",
