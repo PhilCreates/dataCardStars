@@ -1,0 +1,1205 @@
+{
+  "Users": {
+    "default@nanocards.ai": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Schule",
+              "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
+              "Cases": [
+                {
+                  "name": "Abitur Baden-Württemberg",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placeholder_book.svg/1200px-Placeholder_book.svg.png",
+                  "Books": [
+                    {
+                      "name": "Deutsch-Abitur",
+                      "image": "https://images.thalia.media/00/-/a31b59da87b54890924266edbbc7e834/stark-abiturpruefung-bawue-2024-deutsch-leistungsfach-21-auflage-stark-verlag-gmbh.jpeg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "Lektüre",
+              "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
+              "Decks": [
+                {
+                  "name": "Die Leiden des jungen Werther",
+                  "image": "https://static.thenounproject.com/png/1355880-200.png",
+                  "Cards": []
+                },
+                {
+                  "name": "Faust I",
+                  "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
+                  "Cards": [
+                    {
+                      "name": "Die Gelehrtentragödie",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png"
+                    },
+                    {
+                      "name": "Die Gretchentragödie",
+                      "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Cards": [
+            {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
+            {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg"},
+            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
+        ],
+        "Quiz": [
+            {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
+                    "cardQuizOptions": {
+                        "a": "Die Suche nach Liebe und Glück",
+                        "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Mephistopheles",
+                        "b": "Wagner"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
+                    "cardQuizOptions": {
+                        "a": "Das Dorf",
+                        "b": "Das Studierzimmer"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Er ist Fausts bester Freund",
+                        "b": "Er ist der Teufel, der Faust verführt und begleitet"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Er erreicht ewiges Glück und Frieden",
+                        "b": "Er bleibt unzufrieden und verzweifelt"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            }
+        ]
+      }
+    },
+    "test": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Schule",
+              "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
+              "Cases": [
+                {
+                  "name": "Abitur Baden-Württemberg",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placeholder_book.svg/1200px-Placeholder_book.svg.png",
+                  "Books": [
+                    {
+                      "name": "Deutsch-Abitur",
+                      "image": "https://images.thalia.media/00/-/a31b59da87b54890924266edbbc7e834/stark-abiturpruefung-bawue-2024-deutsch-leistungsfach-21-auflage-stark-verlag-gmbh.jpeg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "Lektüre",
+              "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
+              "Decks": [
+                {
+                  "name": "Die Leiden des jungen Werther",
+                  "image": "https://static.thenounproject.com/png/1355880-200.png",
+                  "Cards": []
+                },
+                {
+                  "name": "Faust I",
+                  "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
+                  "Cards": [
+                    {
+                      "name": "Die Gelehrtentragödie",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png"
+                    },
+                    {
+                      "name": "Die Gretchentragödie",
+                      "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Cards": [
+            {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "assets/images/Default/studierzimmer.jpg"},
+            {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "assets/images/Default/studierzimmer.jpg"},
+            {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "assets/images/Default/mephisto.jpg"}
+        ],
+        "Quiz": [
+            {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
+                    "cardQuizOptions": {
+                        "a": "Die Suche nach Liebe und Glück",
+                        "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Mephistopheles",
+                        "b": "Wagner"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
+                    "cardQuizOptions": {
+                        "a": "Das Dorf",
+                        "b": "Das Studierzimmer"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Er ist Fausts bester Freund",
+                        "b": "Er ist der Teufel, der Faust verführt und begleitet"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
+                    "cardQuizOptions": {
+                        "a": "Er erreicht ewiges Glück und Frieden",
+                        "b": "Er bleibt unzufrieden und verzweifelt"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            }
+        ]
+      }
+    },
+    "fks@nanocards.ai": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Reglemente / Handbücher / Richtlinien",
+              "image": "assets/images/FKS/Handbuecher.png",
+              "Cases": [
+                {
+                  "name": "ABC-Einsätze",
+                  "image": "assets/images/FKS/ABC-Einsätze.png",
+                  "Books": [
+                    {
+                      "name": "Handbuch für ABC-Einsätze",
+                      "image": "assets/images/FKS/ABC Handbuch DE.png"
+                    },
+                    {
+                      "name": "Faltkarten für ABC-Einsätze",
+                      "image": "assets/images/FKS/ABCFaltkartenDE.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Basiswissen",
+                  "image": "assets/images/FKS/Basiswissen DE.png",
+                  "Books": [
+                    {
+                      "name": "Basiswissen",
+                      "image": "assets/images/FKS/Reglement Basiswissen DE.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Geschäftsberichte",
+                  "image": "assets/images/FKS/FKS_Geschaeftsberichte.png",
+                  "Books": [
+                    {
+                      "name": "FKS Geschäftsbericht 2022",
+                      "image": "assets/images/FKS/FKS_Geschaeftsbericht_2022_de.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Browse": {
+              "Boxes": [
+                    {
+                        "name": "1 Allgemeines",
+                        "image": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
+                        "Decks": [
+                            {
+                                "name": "1.1 Erwartungen an den Einsatzleiter",
+                                "image": "https://cdn-icons-png.flaticon.com/512/9483/9483192.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "1.2 Kompetenzen",
+                                "image": "https://cdn-icons-png.flaticon.com/512/2631/2631384.png",
+                                "Cards": [
+                                    {
+                                        "name": "1.2.1 Selbstkompetenz",
+                                        "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
+                                    },
+                                    {
+                                        "name": "1.2.2 Fachkompetenz",
+                                        "image": "https://cdn-icons-png.flaticon.com/512/3316/3316456.png"
+                                    },
+                                    {
+                                        "name": "1.2.3 Sozialkompetenz",
+                                        "image": "https://cdn-icons-png.flaticon.com/512/6679/6679650.png"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2 Einsatzphasen",
+                        "image": "https://cdn-icons-png.flaticon.com/512/1138/1138051.png",
+                        "Decks": [
+                            {
+                                "name": "2.1 Chronologie des Einsatzes",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "2.2 Ereignis",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "2.3 Alarmierung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "2.3.1 Annahme des Hilferufes (Eingang des Alarms)",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "2.3.2 Bearbeitung des Hilferufes (Bearbeitung des Alarms)",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "2.3.3 Aufgebot der Ressourcen und Mittel (Übermittlung des Alarms)",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "2.3.4 Informationsaustausch",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2.4 Anfahrt",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "2.4.1 Dringlichkeit",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "2.4.2 Ausrücken",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "2.4.3 Einweisung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2.5 Einsatz",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "2.5.1 Notwendige Elemente der Einsatzführung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "2.6 Einsatzende",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "3 Führungsrhythmus",
+                        "image": "https://cdn-icons-png.flaticon.com/512/860/860472.png",
+                        "Decks": [
+                            {
+                                "name": "3.1 Führungsablauf",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "3.2 Führungsspirale",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "3.3 Feststellen",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "3.4 Beurteilen",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "3.5 Entscheiden",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "3.5.1 Vom entscheidungsfreudigen Macher zum Ereignismanager",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "3.5.2 Beispiel der Aufteilung der Verantwortlichkeiten",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "3.6 Handeln",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "3.6.1 Der Befehl",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "3.6.2 Die Befehlsgebung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "3.7 Kontrollieren",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "4 Gebäudebrand",
+                        "image": "https://cdn-icons-png.flaticon.com/512/3433/3433450.png",
+                        "Decks": [
+                            {
+                                "name": "4.1 Grundsätze bei Gebäudebränden",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "4.2 Chancen- und Risikenanalyse",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "4.3 Orts- und Gebäudekenntnisse",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "4.4 Zweck",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "4.4.1 Einsatz",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.4.2 Übungsvorbereitung",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.4.3 Einsatzplanung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "4.5 Einsatzrelevante Punkte bei Gebäudebränden",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "4.5.1 Rauch- und Wärmeentwicklung",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.5.2 Verhalten von Gebäudeteilen",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "4.6 Beurteilung mit der Volumenmethode",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "4.7 Brandschutz für den Einsatzleiter",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "4.7.1 Brandschutzvorschriften",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.7.2 Baulicher Brandschutz",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.7.3 Technischer Brandschutz",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.7.4 Organisatorischer Brandschutz",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "4.8 Baukunde",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "4.8.1 Gebäudekonstruktion",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.8.2 Tragwerke",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "4.8.3 Brandmauern",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "4.9 Löschwasserversorgung",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "5 Ausbildung",
+                        "image": "https://cdn-icons-png.flaticon.com/512/4116/4116265.png",
+                        "Decks": [
+                            {
+                                "name": "5.1 Grundsätzliches",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "5.1.1 Herausforderungen im Einsatz",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "5.1.2 Herausforderungen in der Ausbildung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "5.2 Führung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "5.2.1 Führungstraining",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "5.3 Entscheidungsfähigkeit",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "5.4 Ausbildung Einsatzleiter",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "5.4.1 Methodik",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "5.4.2 Didaktik",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "5.4.3 Hilfsmittel",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "5.5 Übungsvorbereitung",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                            },
+                            {
+                                "name": "5.6 Erfolgskontrolle/Bilanz",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "5.6.1 Ablauf Übungsbesprechung",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "5.7 Markierungsmöglichkeiten und grafische Darstellung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                    {
+                                        "name": "5.7.1 Symbole zur Markierung",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "5.7.2 Beispiel Gebäudebrand",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "Beispiel Wasserschaden",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "Beispiel Chemieereignis",
+                                        "image": "assets/images/cards.png"
+                                    },
+                                    {
+                                        "name": "Beispiel Unfall",
+                                        "image": "assets/images/cards.png"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+        },
+                    "Cards": [
+            {"cardName": "Durchflussmengen", "cardType": "Begriff", "cardDesc": "Leistung der Versorgung, üblicherweise in Liter pro Minute angegeben.", "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"},
+            {"cardName": "Hydrant", "cardType": "Begriff", "cardDesc": "Wasserentnahmearmatur zur Brandbekämpfung.", "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"},
+            {"cardName": "Löschwasser", "cardType": "Begriff", "cardDesc": "Wasser, das zum Bekämpfen von Bränden dient.", "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"},
+            {"cardName": "Seewasserwerke", "cardType": "Begriff", "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.", "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"},
+            {"cardName": "Reservoir", "cardType": "Begriff", "cardDesc": "Speicher für Trink-, Brauch- und Löschwasser.", "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"}
+        ],
+        "Quiz": [
+              {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                  "cardQuizQuestion": "Was ist das Hauptziel der Brandfallsteuerung in einem Wasserversorgungssystem?",
+                  "cardQuizOptions": {
+                    "a": "Reduzierung des Wasserverbrauchs",
+                    "b": "Aktivierung und Steuerung der Löschreserve"
+                  },
+                  "cardQuizSolution": "b",
+                  "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der benötigten Löschreserve sowie weiterer Maßnahmen."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+              },
+              {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                  "cardQuizQuestion": "Was ist der primäre Zweck der Brauchreserve in einem Wasserversorgungssystem?",
+                  "cardQuizOptions": {
+                    "a": "Deckung von Spitzenverbräuchen",
+                    "b": "Speicherung von Trinkwasser"
+                  },
+                  "cardQuizSolution": "a",
+                  "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir für den normalen Verbrauch und der Spitzenabdeckung."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+              },
+              {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                  "cardQuizQuestion": "Wie werden Durchflussmengen in einem Wasserversorgungssystem typischerweise angegeben?",
+                  "cardQuizOptions": {
+                    "a": "In Kubikmetern pro Stunde",
+                    "b": "In Litern pro Minute"
+                  },
+                  "cardQuizSolution": "b",
+                  "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden üblicherweise in Litern pro Minute angegeben."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+              },
+              {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                  "cardQuizQuestion": "Wodurch sind Druckzonen in einem Wasserversorgungssystem charakterisiert?",
+                  "cardQuizOptions": {
+                    "a": "Durch unterschiedliche Wasserqualität",
+                    "b": "Durch unterschiedlichen Wasserdruck"
+                  },
+                  "cardQuizSolution": "b",
+                  "cardQuizExplanation": "Druckzonen im Verteilsystem der Wasserversorgung sind durch unterschiedlichen Wasserdruck charakterisiert."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+              },
+              {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                  "cardQuizQuestion": "Wofür steht das Kürzel 'GWP' in Bezug auf die Wasserversorgung?",
+                  "cardQuizOptions": {
+                    "a": "Globales Wasserschutzprotokoll",
+                    "b": "Generelle Wasserversorgungsplanung"
+                  },
+                  "cardQuizSolution": "b",
+                  "cardQuizExplanation": "GWP steht für 'Generelle Wasserversorgungsplanung'."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+              }
+            ]
+      }
+    },
+    "grace": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+                "name": "St. Moritz",
+                "image": "assets/images/StMoritz/library_cover.jpg",
+                "Cases": [
+                    {
+                        "name": "Ort",
+                        "image": "assets/images/StMoritz/location.jpg",
+                        "Books": [
+                            {
+                                "name": "Geschichte von St. Moritz",
+                                "image": "assets/images/StMoritz/history.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "Box 1",
+              "image": "assets/images/boxes00.png",
+              "Decks": [
+                {
+                  "name": "Set 1.1",
+                  "image": "assets/images/decks00.png",
+                  "Cards": [
+                    {
+                      "name": "Card 1.1.1",
+                      "image": "assets/images/cards00.png"
+                    },
+                    {
+                      "name": "Card 1.1.2",
+                      "image": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                    },
+                                            {
+                      "name": "Card 1.1.2",
+                      "image": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"
+                    },
+                                            {
+                      "name": "Card 1.1.2",
+                      "image": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
+                    },
+                                            {
+                      "name": "Card 1.1.2",
+                      "image": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
+                    },
+                                                                    {
+                      "name": "Card 1.1.2",
+                      "image": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Cards": [
+            {
+                "cardName": "Wintersport",
+                "cardType": "Aktivität",
+                "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            },
+            {
+                "cardName": "Polo on Snow",
+                "cardType": "Veranstaltung",
+                "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            },
+            {
+                "cardName": "Luxusresorts",
+                "cardType": "Unterkunft",
+                "cardDesc": "St. Moritz ist berühmt für seine luxuriösen Resorts und Hotels, die Gästen einen erstklassigen Service und Komfort bieten.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            }
+        ],
+        "Quiz": [
+            {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
+                    "cardQuizOptions": {
+                        "a": "Bern",
+                        "b": "Graubünden"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graubünden in der Schweiz."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
+                    "cardQuizOptions": {
+                        "a": "Strandtourismus",
+                        "b": "Wintersporttourismus"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz ist besonders für den Wintersporttourismus bekannt, insbesondere für Skifahren und Snowboarden."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmäßig in St. Moritz statt?",
+                    "cardQuizOptions": {
+                        "a": "Internationales Filmfestival",
+                        "b": "Polo on Snow"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmäßig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel für Reiche und Prominente?",
+                    "cardQuizOptions": {
+                        "a": "Günstige Preise",
+                        "b": "Exklusive Luxusresorts und -hotels"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz ist bekannt für seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel für Reiche und Prominente machen."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsächlich gesprochen?",
+                    "cardQuizOptions": {
+                        "a": "Französisch",
+                        "b": "Rätoromanisch und Deutsch"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "In St. Moritz werden hauptsächlich Rätoromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graubünden."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            }
+        ]
+      }
+    },
+    "grace@nanocards.ai": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+                "name": "St. Moritz",
+                "image": "assets/images/StMoritz/library_cover.jpg",
+                "Cases": [
+                    {
+                        "name": "Ort",
+                        "image": "assets/images/StMoritz/location.jpg",
+                        "Books": [
+                            {
+                                "name": "Geschichte von St. Moritz",
+                                "image": "assets/images/StMoritz/history.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "Grace",
+              "image": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
+              "Decks": [
+                {
+                  "name": "Default",
+                  "image": "https://cdn-icons-png.flaticon.com/512/2631/2631384.png",
+                  "Cards": [
+                    {
+                      "name": "Default",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Cards": [
+            {
+                "cardName": "Wintersport",
+                "cardType": "Aktivität",
+                "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            },
+            {
+                "cardName": "Polo on Snow",
+                "cardType": "Veranstaltung",
+                "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            },
+            {
+                "cardName": "Luxusresorts",
+                "cardType": "Unterkunft",
+                "cardDesc": "St. Moritz ist berühmt für seine luxuriösen Resorts und Hotels, die Gästen einen erstklassigen Service und Komfort bieten.",
+                "cardImg": "assets/images/Grace/st. moritz.png"
+            }
+        ],
+        "Quiz": [
+            {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
+                    "cardQuizOptions": {
+                        "a": "Bern",
+                        "b": "Graubünden"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graubünden in der Schweiz."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
+                    "cardQuizOptions": {
+                        "a": "Strandtourismus",
+                        "b": "Wintersporttourismus"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz ist besonders für den Wintersporttourismus bekannt, insbesondere für Skifahren und Snowboarden."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelmäßig in St. Moritz statt?",
+                    "cardQuizOptions": {
+                        "a": "Internationales Filmfestival",
+                        "b": "Polo on Snow"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelmäßig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel für Reiche und Prominente?",
+                    "cardQuizOptions": {
+                        "a": "Günstige Preise",
+                        "b": "Exklusive Luxusresorts und -hotels"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "St. Moritz ist bekannt für seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel für Reiche und Prominente machen."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welche Sprache wird in St. Moritz hauptsächlich gesprochen?",
+                    "cardQuizOptions": {
+                        "a": "Französisch",
+                        "b": "Rätoromanisch und Deutsch"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "In St. Moritz werden hauptsächlich Rätoromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graubünden."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            }
+        ]
+      }
+    },
+    "ibk-snow@nanocards.ai": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+                {
+                    "name": "Snowboarden",
+                    "image": "assets/images/Snowboarding/library_cover.jpg",
+                    "Cases": [
+                        {
+                            "name": "Grundlagen",
+                            "image": "assets/images/Snowboarding/basics.jpg",
+                            "Books": [
+                                {
+                                    "name": "Einführung ins Snowboarden",
+                                    "image": "assets/images/Snowboarding/introduction.jpg"
+                                },
+                                {
+                                    "name": "Snowboard-Ausrüstung",
+                                    "image": "assets/images/Snowboarding/equipment.jpg"
+                                },
+                                {
+                                    "name": "Snowboard-Techniken",
+                                    "image": "assets/images/Snowboarding/techniques.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fortgeschrittene",
+                            "image": "assets/images/Snowboarding/advanced.jpg",
+                            "Books": [
+                                {
+                                    "name": "Freestyle-Snowboarden",
+                                    "image": "assets/images/Snowboarding/freestyle.jpg"
+                                },
+                                {
+                                    "name": "Snowboard-Wettbewerbe",
+                                    "image": "assets/images/Snowboarding/competitions.jpg"
+                                },
+                                {
+                                    "name": "Extrem-Snowboarden",
+                                    "image": "assets/images/Snowboarding/extreme.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "IBK-Snow",
+              "image": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
+              "Decks": [
+                {
+                  "name": "Default",
+                  "image": "https://cdn-icons-png.flaticon.com/512/2631/2631384.png",
+                  "Cards": [
+                    {
+                      "name": "Default",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Cards": [
+            {
+                "cardName": "Snowboarden",
+                "cardType": "Sport",
+                "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abhänge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
+                "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+            },
+            {
+                "cardName": "Snowboard",
+                "cardType": "Ausrüstung",
+                "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
+                "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+            },
+            {
+                "cardName": "Halfpipe",
+                "cardType": "Fahrtstrecke",
+                "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneeröhre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Sprünge auszuführen. Halfpipes sind Teil von Snowparks.",
+                "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+            }
+        ],
+        "Quiz": [
+            {
+                "cardName": "Frage 1",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' für das erste Snowboard?",
+                    "cardQuizOptions": {
+                        "a": "Eine Kombination aus 'Snow' und 'Surf'",
+                        "b": "Die Abkürzung für 'Snow Rider'"
+                    },
+                    "cardQuizSolution": "a",
+                    "cardQuizExplanation": "Der Name 'Snurfer' für das erste Snowboard stammt von der Kombination der Wörter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 2",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Wer wird in der Geschichte oft für die Erfindung des Snowboards genannt?",
+                    "cardQuizOptions": {
+                        "a": "Sherman Poppen",
+                        "b": "Sherman Skier"
+                    },
+                    "cardQuizSolution": "a",
+                    "cardQuizExplanation": "Sherman Poppen wird oft für die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 3",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Was war ursprünglich der Zweck der Erfindung des Snowboards?",
+                    "cardQuizOptions": {
+                        "a": "Ein Spaßgerät für Kinder im Schnee",
+                        "b": "Eine Alternative zum Skifahren für Erwachsene"
+                    },
+                    "cardQuizSolution": "a",
+                    "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den ursprünglichen Zweck, ein unterhaltsames Gerät für seine Töchter im Schnee zu schaffen."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 4",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Welchen Namen gab Sherman Poppen seiner Erfindung?",
+                    "cardQuizOptions": {
+                        "a": "Snowy Surfer",
+                        "b": "Snurfer"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den Wörtern 'Snow' und 'Surf'."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            },
+            {
+                "cardName": "Frage 5",
+                "cardType": "Question",
+                "cardQuiz": {
+                    "cardQuizQuestion": "Warum wird das erste Snowboard oft als 'Snurfer' bezeichnet?",
+                    "cardQuizOptions": {
+                        "a": "Weil es wie ein Surfbrett aussah",
+                        "b": "Weil es sich auf dem Schnee surfen ließ"
+                    },
+                    "cardQuizSolution": "b",
+                    "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen ließ und Elemente des Surfens enthielt."
+                },
+                "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+            }
+        ]
+      }
+    }
+  }
+}
