@@ -432,6 +432,74 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Grammatik",
+              "image": "images/fact_icon.png",
+              "Decks": [
+                {
+                  "name": "Nomen",
+                  "image": "images/fact_icon.png",
+                  "Cards": [
+                    {
+                      "name": "Nomen Einführung",
+                      "image": "images/fact_icon.png",
+                      "Stack": [
+                        {
+                          "cardName": "Was ist ein Nomen?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Nomen (Substantive) in der deutschen Grammatik.",
+                          "cardImg": "images/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Nomen?",
+                                "cardQuizOptions": {
+                                  "a": "Ein Nomen ist ein Hauptwort, das Personen, Tiere, Dinge oder Abstraktes bezeichnet.",
+                                  "b": "Ein Nomen ist ein Verb, das eine Handlung beschreibt."
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Richtig! Ein Nomen ist ein Hauptwort, das Personen, Tiere, Dinge oder Abstraktes bezeichnet."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie viele Genera (Geschlechter) gibt es bei Nomen in der deutschen Grammatik?",
+                                "cardQuizOptions": {
+                                  "a": "Es gibt zwei Genera: Maskulinum und Femininum.",
+                                  "b": "Es gibt drei Genera: Maskulinum, Femininum und Neutrum."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Gut gemacht! Es gibt drei Genera in der deutschen Grammatik: Maskulinum, Femininum und Neutrum."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist die Pluralform eines Nomens?",
+                                "cardQuizOptions": {
+                                  "a": "Die Pluralform eines Nomens ist immer identisch mit der Singularform.",
+                                  "b": "Die Pluralform eines Nomens bezeichnet mehr als eine Sache oder Person und wird in der Regel durch das Hinzufügen eines 's' oder 'en' gebildet."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Die Pluralform eines Nomens bezeichnet mehr als eine Sache oder Person und wird in der Regel durch das Hinzufügen eines 's' oder 'en' gebildet."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
