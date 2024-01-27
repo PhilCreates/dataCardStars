@@ -40,7 +40,7 @@
                           "cardName": "Ankunft im Dorf",
                           "cardType": "Buch",
                           "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
-                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "cardImg": "assets/images/Default/ankunft_im_dorf.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -87,7 +87,7 @@
                           "cardName": "Begegnung mit Lotte",
                           "cardType": "Buch",
                           "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
-                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "cardImg": "assets/images/Default/lotte.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -134,7 +134,7 @@
                           "cardName": "Werthers Tragödie",
                           "cardType": "Buch",
                           "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
-                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "cardImg": "assets/images/Default/werther.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
