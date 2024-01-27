@@ -438,30 +438,30 @@
               "image": "images/fact_icon.png",
               "Decks": [
                 {
-                  "name": "Nomen",
+                  "name": "Einführung",
                   "image": "images/fact_icon.png",
                   "Cards": [
                     {
-                      "name": "Nomen Einführung",
+                      "name": "Wortarten",
                       "image": "images/fact_icon.png",
                       "Stack": [
                         {
-                          "cardName": "Was ist ein Nomen?",
+                          "cardName": "Was sind Pronomen?",
                           "cardType": "Text",
-                          "cardDesc": "Eine kurze Einführung in Nomen (Substantive) in der deutschen Grammatik.",
-                          "cardImg": "images/fact_icon.png",
+                          "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
+                          "cardImg": "mages/fact_icon.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Was ist ein Nomen?",
+                                "cardQuizQuestion": "Was sind Pronomen?",
                                 "cardQuizOptions": {
-                                  "a": "Ein Nomen ist ein Hauptwort, das Personen, Tiere, Dinge oder Abstraktes bezeichnet.",
-                                  "b": "Ein Nomen ist ein Verb, das eine Handlung beschreibt."
+                                  "a": "Pronomen sind Wörter, die Tiere und Dinge beschreiben.",
+                                  "b": "Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
                                 },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Richtig! Ein Nomen ist ein Hauptwort, das Personen, Tiere, Dinge oder Abstraktes bezeichnet."
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
                               },
                               "cardImg": "URL_FRAGE_1_BILD.png"
                             },
@@ -469,13 +469,13 @@
                               "cardName": "Frage 2",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Wie viele Genera (Geschlechter) gibt es bei Nomen in der deutschen Grammatik?",
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein Personalpronomen?",
                                 "cardQuizOptions": {
-                                  "a": "Es gibt zwei Genera: Maskulinum und Femininum.",
-                                  "b": "Es gibt drei Genera: Maskulinum, Femininum und Neutrum."
+                                  "a": "Haus",
+                                  "b": "Er"
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Gut gemacht! Es gibt drei Genera in der deutschen Grammatik: Maskulinum, Femininum und Neutrum."
+                                "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel für ein Personalpronomen."
                               },
                               "cardImg": "URL_FRAGE_2_BILD.png"
                             },
@@ -483,13 +483,113 @@
                               "cardName": "Frage 3",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Was ist die Pluralform eines Nomens?",
+                                "cardQuizQuestion": "Was ist der Unterschied zwischen einem Demonstrativpronomen und einem Possessivpronomen?",
                                 "cardQuizOptions": {
-                                  "a": "Die Pluralform eines Nomens ist immer identisch mit der Singularform.",
-                                  "b": "Die Pluralform eines Nomens bezeichnet mehr als eine Sache oder Person und wird in der Regel durch das Hinzufügen eines 's' oder 'en' gebildet."
+                                  "a": "Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken.",
+                                  "b": "Es gibt keinen Unterschied zwischen ihnen."
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Was sind Verben?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
+                          "cardImg": "mages/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was sind Verben?",
+                                "cardQuizOptions": {
+                                  "a": "Verben sind Wörter, die Personen und Orte beschreiben.",
+                                  "b": "Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Richtig! Die Pluralform eines Nomens bezeichnet mehr als eine Sache oder Person und wird in der Regel durch das Hinzufügen eines 's' oder 'en' gebildet."
+                                "cardQuizExplanation": "Richtig! Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein starkes Verb im Deutschen?",
+                                "cardQuizOptions": {
+                                  "a": "Spielen",
+                                  "b": "Lesen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel für ein starkes Verb im Deutschen."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie werden Verben in der imperativen Form konjugiert?",
+                                "cardQuizOptions": {
+                                  "a": "In der imperativen Form werden Verben in der dritten Person Singular konjugiert.",
+                                  "b": "In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Gut gemacht! In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Was sind Adjektive?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
+                          "cardImg": "mages/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was sind Adjektive?",
+                                "cardQuizOptions": {
+                                  "a": "Adjektive sind Wörter, die Handlungen beschreiben.",
+                                  "b": "Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Steigerungsgrad von Adjektiven?",
+                                "cardQuizOptions": {
+                                  "a": "Der Steigerungsgrad von Adjektiven beschreibt, wie oft die Eigenschaft vorhanden ist.",
+                                  "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein attributives Adjektiv?",
+                                "cardQuizOptions": {
+                                  "a": "Schnell rennend",
+                                  "b": "Schnell rennt"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel für ein attributives Adjektiv."
                               },
                               "cardImg": "URL_FRAGE_3_BILD.png"
                             }
