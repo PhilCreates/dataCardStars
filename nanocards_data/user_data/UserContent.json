@@ -1,6 +1,6 @@
 {
   "Users": {
-    "default@nanocards.ai": {
+    "def": {
       "Content": {
         "Collection": {
           "Libraries": [
@@ -31,7 +31,93 @@
                 {
                   "name": "Die Leiden des jungen Werther",
                   "image": "https://static.thenounproject.com/png/1355880-200.png",
-                  "Cards": []
+                  {
+                  "Cards": [
+                    {
+                      "name": "Die Leiden des jungen Werther",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png",
+                      "Stack": [
+                        {
+                          "cardName": "Die Leiden des jungen Werther",
+                          "cardType": "Buch",
+                          "cardDesc": "Ein Briefroman von Johann Wolfgang von Goethe, der die unglückliche Liebesgeschichte von Werther erzählt, einem jungen Mann, der sich in Lotte verliebt.",
+                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "In welcher literarischen Epoche wurde 'Die Leiden des jungen Werther' veröffentlicht?",
+                                "cardQuizOptions": {
+                                  "a": "Aufklärung",
+                                  "b": "Sturm und Drang"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "'Die Leiden des jungen Werther' ist ein Schlüsselwerk der Sturm-und-Drang-Periode, das sich durch intensive Emotion und Individualismus auszeichnet."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welches Gefühl dominiert Werthers Leben und Handlungen im Roman?",
+                                "cardQuizOptions": {
+                                  "a": "Wut",
+                                  "b": "Unerwiderte Liebe"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Der Roman konzentriert sich auf Werthers intensive unerwiderte Liebe zu Lotte, die sein Leben und seine Entscheidungen tief beeinflusst."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie endet 'Die Leiden des jungen Werther'?",
+                                "cardQuizOptions": {
+                                  "a": "Werther überwindet seine Leiden",
+                                  "b": "Werther begeht Selbstmord"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Der Roman endet tragisch mit Werthers Selbstmord, was ein zentrales Thema der Verzweiflung und des Leidens in der Liebe hervorhebt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welcher Aspekt des Romans löste eine Kontroverse und Nachahmung aus?",
+                                "cardQuizOptions": {
+                                  "a": "Die Darstellung der Natur",
+                                  "b": "Die Darstellung des Selbstmords"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Die Darstellung von Werthers Selbstmord löste Kontroversen aus und führte zu Nachahmungen, bekannt als 'Werther-Fieber', in der Gesellschaft der damaligen Zeit."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was symbolisiert die Natur in 'Die Leiden des jungen Werther'?",
+                                "cardQuizOptions": {
+                                  "a": "Werthers Freiheitsdrang",
+                                  "b": "Werthers emotionale Zustände"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Die Natur in 'Die Leiden des jungen Werther' spiegelt oft Werthers emotionale Zustände wider und unterstreicht die Bedeutung der Natur für die Romantik."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "name": "Faust I",
