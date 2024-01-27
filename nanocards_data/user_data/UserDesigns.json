@@ -1,6 +1,6 @@
 {
   "Users": {
-  "default@nanocards.ai": {
+  "def": {
       "Designs": {
         "corporate_name": "Neuer User",
         "corporate_image_url": "assets/images/favicon.png",
