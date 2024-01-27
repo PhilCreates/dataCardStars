@@ -37,80 +37,143 @@
                       "image": "https://static.thenounproject.com/png/1355880-200.png",
                       "Stack": [
                         {
-                          "cardName": "Die Leiden des jungen Werther",
+                          "cardName": "Ankunft im Dorf",
                           "cardType": "Buch",
-                          "cardDesc": "Ein Briefroman von Johann Wolfgang von Goethe, der die unglückliche Liebesgeschichte von Werther erzählt, einem jungen Mann, der sich in Lotte verliebt.",
+                          "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
                           "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "In welcher literarischen Epoche wurde 'Die Leiden des jungen Werther' veröffentlicht?",
+                                "cardQuizQuestion": "Wie heißt das Dorf, in dem Werther ankommt?",
                                 "cardQuizOptions": {
-                                  "a": "Aufklärung",
-                                  "b": "Sturm und Drang"
+                                  "a": "Wetzlar",
+                                  "b": "Weimar"
                                 },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "'Die Leiden des jungen Werther' ist ein Schlüsselwerk der Sturm-und-Drang-Periode, das sich durch intensive Emotion und Individualismus auszeichnet."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Werther kommt im Dorf 'Wetzlar' an und beginnt dort seinen Aufenthalt."
+                              }
                             },
                             {
                               "cardName": "Frage 2",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Welches Gefühl dominiert Werthers Leben und Handlungen im Roman?",
+                                "cardQuizQuestion": "Welche Landschaft beeindruckt Werther bei seiner Ankunft?",
                                 "cardQuizOptions": {
-                                  "a": "Wut",
-                                  "b": "Unerwiderte Liebe"
+                                  "a": "Gebirge",
+                                  "b": "Flussufer"
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Der Roman konzentriert sich auf Werthers intensive unerwiderte Liebe zu Lotte, die sein Leben und seine Entscheidungen tief beeinflusst."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                "cardQuizExplanation": "Werther ist bei seiner Ankunft am Flussufer beeindruckt von der malerischen Landschaft."
+                              }
                             },
                             {
                               "cardName": "Frage 3",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Wie endet 'Die Leiden des jungen Werther'?",
+                                "cardQuizQuestion": "Was ist Werthers erster Eindruck von den Dorfbewohnern?",
                                 "cardQuizOptions": {
-                                  "a": "Werther überwindet seine Leiden",
-                                  "b": "Werther begeht Selbstmord"
+                                  "a": "Sie sind freundlich und aufgeschlossen.",
+                                  "b": "Sie sind distanziert und reserviert."
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Der Roman endet tragisch mit Werthers Selbstmord, was ein zentrales Thema der Verzweiflung und des Leidens in der Liebe hervorhebt."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
+                                "cardQuizExplanation": "Werther empfindet die Dorfbewohner bei seiner Ankunft als distanziert und reserviert."
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Begegnung mit Lotte",
+                          "cardType": "Buch",
+                          "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
+                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "Quiz": [
                             {
-                              "cardName": "Frage 4",
+                              "cardName": "Frage 1",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Welcher Aspekt des Romans löste eine Kontroverse und Nachahmung aus?",
+                                "cardQuizQuestion": "Welchen Eindruck hinterlässt Lotte auf Werther bei ihrer ersten Begegnung?",
                                 "cardQuizOptions": {
-                                  "a": "Die Darstellung der Natur",
-                                  "b": "Die Darstellung des Selbstmords"
+                                  "a": "Sie ist unhöflich und abweisend.",
+                                  "b": "Sie ist freundlich und bezaubernd."
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Die Darstellung von Werthers Selbstmord löste Kontroversen aus und führte zu Nachahmungen, bekannt als 'Werther-Fieber', in der Gesellschaft der damaligen Zeit."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                "cardQuizExplanation": "Lotte hinterlässt auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
+                              }
                             },
                             {
-                              "cardName": "Frage 5",
+                              "cardName": "Frage 2",
                               "cardType": "Question",
                               "cardQuiz": {
-                                "cardQuizQuestion": "Was symbolisiert die Natur in 'Die Leiden des jungen Werther'?",
+                                "cardQuizQuestion": "Welche Blume verbindet Werther mit Lotte?",
                                 "cardQuizOptions": {
-                                  "a": "Werthers Freiheitsdrang",
-                                  "b": "Werthers emotionale Zustände"
+                                  "a": "Rosen",
+                                  "b": "Veilchen"
                                 },
                                 "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Die Natur in 'Die Leiden des jungen Werther' spiegelt oft Werthers emotionale Zustände wider und unterstreicht die Bedeutung der Natur für die Romantik."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                "cardQuizExplanation": "Werther verbindet die Blume 'Veilchen' mit Lotte, da sie ihm diese in Erinnerung bleibt."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was empfindet Werther für Lotte nach ihrer ersten Begegnung?",
+                                "cardQuizOptions": {
+                                  "a": "Geschwisterliche Liebe",
+                                  "b": "Leidenschaftliche Liebe"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe für Lotte."
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Werthers Tragödie",
+                          "cardType": "Buch",
+                          "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
+                          "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Werther-1774.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was führt letztendlich zu Werthers tragischem Ende?",
+                                "cardQuizOptions": {
+                                  "a": "Ein Unfall",
+                                  "b": "Liebeskummer und Selbstmord"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Werthers tragisches Ende resultiert aus Liebeskummer und seinem Selbstmord."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
+                                "cardQuizOptions": {
+                                  "a": "Hoffnung",
+                                  "b": "Zerstörung"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Warum kann Werther seine Liebe zu Lotte nicht leben?",
+                                "cardQuizOptions": {
+                                  "a": "Lotte ist bereits verheiratet.",
+                                  "b": "Lotte liebt einen anderen Mann."
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Werther kann seine Liebe zu Lotte nicht leben, da diese bereits verheiratet ist und er darunter leidet."
+                              }
                             }
                           ]
                         }
