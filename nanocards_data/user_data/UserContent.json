@@ -123,13 +123,157 @@
                           "cardName": "Faust",
                           "cardType": "Charakter",
                           "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
-                          "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg"
+                          "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist Fausts beruflicher Hintergrund?",
+                                "cardQuizOptions": {
+                                  "a": "Arzt",
+                                  "b": "Gelehrter"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verständnis strebt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "In welchem Zustand befindet sich Faust zu Beginn des Dramas?",
+                                "cardQuizOptions": {
+                                  "a": "Zufrieden und erfüllt",
+                                  "b": "Verzweifelt und unzufrieden"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust ist zu Beginn des Dramas verzweifelt und unzufrieden mit seinem Leben und seiner Suche nach Wissen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schließt?",
+                                "cardQuizOptions": {
+                                  "a": "Seinen Ruf zu ruinieren",
+                                  "b": "Selbstmord"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust erwägt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch für seine Seele?",
+                                "cardQuizOptions": {
+                                  "a": "Unsterblichkeit",
+                                  "b": "Unbegrenzte Erkenntnis und Vergnügen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergnügen im Austausch für seine Seele."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Bedingung stellt Faust für den Pakt mit Mephistopheles?",
+                                "cardQuizOptions": {
+                                  "a": "Er will der mächtigste Mensch auf Erden werden",
+                                  "b": "Er will einen Moment erleben, den er nicht loslassen möchte"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genießt, dass er wünscht, er möge ewig dauern."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
                         },
                         {
                           "cardName": "Mephistopheles",
                           "cardType": "Charakter",
                           "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
-                          "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"
+                          "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingeführt?",
+                                "cardQuizOptions": {
+                                  "a": "Als ein Geist",
+                                  "b": "Als ein schwarzer Pudel"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles tritt zuerst in der Gestalt eines schwarzen Pudels auf, als er Faust auf seinem Spaziergang begleitet."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was repräsentiert Mephistopheles in 'Faust'?",
+                                "cardQuizOptions": {
+                                  "a": "Das Streben nach Tugend",
+                                  "b": "Das Prinzip des Bösen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles repräsentiert das Prinzip des Bösen und die Versuchung, sich von moralischen Werten abzuwenden."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie charakterisiert Mephistopheles sich selbst in 'Faust'?",
+                                "cardQuizOptions": {
+                                  "a": "Als Teil der Kraft, die stets das Böse will und stets das Gute schafft",
+                                  "b": "Als ein einfacher Diener des Himmels"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das Böse will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welches Ziel verfolgt Mephistopheles mit seinem Pakt mit Faust?",
+                                "cardQuizOptions": {
+                                  "a": "Fausts Seele zu gewinnen",
+                                  "b": "Die Welt zu beherrschen"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Mephistopheles' Hauptziel in seinem Pakt mit Faust ist es, Fausts Seele zu gewinnen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie reagiert Mephistopheles auf Fausts Verzweiflung und Selbstmordgedanken?",
+                                "cardQuizOptions": {
+                                  "a": "Mit Gleichgültigkeit",
+                                  "b": "Mit Versprechungen und Verlockungen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles reagiert auf Fausts Verzweiflung und Selbstmordgedanken mit Versprechungen und Verlockungen, um ihn von seinem Vorhaben abzubringen und seinen Pakt zu sichern."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
                         }
                       ]
                     },
@@ -142,84 +286,7 @@
               ]
             }
           ]
-        },
-                    "Cards": [
-                {"cardName": "Gelehrtentragödie", "cardType": "Begriff", "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung darstellt.", "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg"},
-                {"cardName": "Faust", "cardType": "Charakter", "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.", "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg"},
-                {"cardName": "Mephistopheles", "cardType": "Charakter", "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt.", "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg"}
-            ],
-            "Quiz": [
-                {
-                    "cardName": "Frage 1",
-                    "cardType": "Question",
-                    "cardQuiz": {
-                        "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentragödie in Goethes 'Faust 1'?",
-                        "cardQuizOptions": {
-                            "a": "Die Suche nach Liebe und Glück",
-                            "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
-                        },
-                        "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Die Gelehrtentragödie in 'Faust 1' dreht sich hauptsächlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erfüllung."
-                    },
-                    "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                },
-                {
-                    "cardName": "Frage 2",
-                    "cardType": "Question",
-                    "cardQuiz": {
-                        "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentragödie?",
-                        "cardQuizOptions": {
-                            "a": "Mephistopheles",
-                            "b": "Wagner"
-                        },
-                        "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentragödie, und er verkörpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
-                    },
-                    "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                },
-                {
-                    "cardName": "Frage 3",
-                    "cardType": "Question",
-                    "cardQuiz": {
-                        "cardQuizQuestion": "Welcher Schauplatz ist für die Gelehrtentragödie in 'Faust 1' besonders bedeutend?",
-                        "cardQuizOptions": {
-                            "a": "Das Dorf",
-                            "b": "Das Studierzimmer"
-                        },
-                        "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz für die Gelehrtentragödie in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
-                    },
-                    "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                },
-                {
-                    "cardName": "Frage 4",
-                    "cardType": "Question",
-                    "cardQuiz": {
-                        "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentragödie?",
-                        "cardQuizOptions": {
-                            "a": "Er ist Fausts bester Freund",
-                            "b": "Er ist der Teufel, der Faust verführt und begleitet"
-                        },
-                        "cardQuizSolution": "b",
-                        "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer führt, was zu Fausts innerem Konflikt beiträgt."
-                    },
-                    "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                },
-                {
-                    "cardName": "Frage 5",
-                    "cardType": "Question",
-                    "cardQuiz": {
-                        "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentragödie?",
-                        "cardQuizOptions": {
-                            "a": "Er erreicht ewiges Glück und Frieden",
-                            "b": "Er bleibt unzufrieden und verzweifelt"
-                        },
-                        "cardQuizSolution": "b",
-                        "cardQuizExplanation": "In der Gelehrtentragödie bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erfüllung in seinen wissenschaftlichen Bemühungen findet."
-                    },
-                    "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                }
-            ]
+        }
       }
     },
     "test": {
