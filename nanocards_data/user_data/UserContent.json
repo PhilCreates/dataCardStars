@@ -26,7 +26,7 @@
           "Boxes": [
             {
               "name": "Lekt\u00fcre",
-              "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
+              "image": "https://cdn-icons-png.flaticon.com/512/2153/2153425.png",
               "Decks": [
                 {
                   "name": "Die Leiden des jungen Werther",
@@ -193,7 +193,7 @@
                           "cardName": "Gelehrtentrag\u00f6die",
                           "cardType": "Begriff",
                           "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
-                          "cardImg": "https://www.inhaltsangabe.de/dateien/goethe-faust-1-studierzimmer-1.jpg",
+                          "cardImg": "assets/images/studierzimmer.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -271,7 +271,7 @@
                           "cardName": "Faust",
                           "cardType": "Charakter",
                           "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
-                          "cardImg": "https://asset.museum-digital.org/hessen/images/import_1/201312/14193820128.jpg",
+                          "cardImg": "assets/images/faust.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -349,7 +349,7 @@
                           "cardName": "Mephistopheles",
                           "cardType": "Charakter",
                           "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
-                          "cardImg": "https://i.pinimg.com/originals/f1/10/cc/f110cc4f6eb124a6c22296e4f896e42a.jpg",
+                          "cardImg": "assets/images/mephisto.jpg",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -439,7 +439,7 @@
               "Decks": [
                 {
                   "name": "Einführung",
-                  "image": "images/fact_icon.png",
+                  "image": "assets/images/fact_icon.png",
                   "Cards": [
                     {
                       "name": "Wortarten",
@@ -449,7 +449,7 @@
                           "cardName": "Was sind Pronomen?",
                           "cardType": "Text",
                           "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
-                          "cardImg": "mages/fact_icon.png",
+                          "cardImg": "assets/images/fact_icon.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -499,7 +499,7 @@
                           "cardName": "Was sind Verben?",
                           "cardType": "Text",
                           "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
-                          "cardImg": "mages/fact_icon.png",
+                          "cardImg": "assets/images/fact_icon.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -549,7 +549,7 @@
                           "cardName": "Was sind Adjektive?",
                           "cardType": "Text",
                           "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
-                          "cardImg": "mages/fact_icon.png",
+                          "cardImg": "assets/images/fact_icon.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
