@@ -605,152 +605,7 @@
         }
       }
     },
-    "test": {
-      "Content": {
-        "Collection": {
-          "Libraries": [
-            {
-              "name": "Schule",
-              "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
-              "Cases": [
-                {
-                  "name": "Abitur Baden-W\u00fcrttemberg",
-                  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Placeholder_book.svg/1200px-Placeholder_book.svg.png",
-                  "Books": [
-                    {
-                      "name": "Deutsch-Abitur",
-                      "image": "https://images.thalia.media/00/-/a31b59da87b54890924266edbbc7e834/stark-abiturpruefung-bawue-2024-deutsch-leistungsfach-21-auflage-stark-verlag-gmbh.jpeg"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        "Browse": {
-          "Boxes": [
-            {
-              "name": "Lekt\u00fcre",
-              "image": "https://cdn-icons-png.flaticon.com/512/10220/10220602.png",
-              "Decks": [
-                {
-                  "name": "Die Leiden des jungen Werther",
-                  "image": "https://static.thenounproject.com/png/1355880-200.png",
-                  "Cards": []
-                },
-                {
-                  "name": "Faust I",
-                  "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
-                  "Cards": [
-                    {
-                      "name": "Die Gelehrtentrag\u00f6die",
-                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png"
-                    },
-                    {
-                      "name": "Die Gretchentrag\u00f6die",
-                      "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        "Cards": [
-          {
-            "cardName": "Gelehrtentrag\u00f6die",
-            "cardType": "Begriff",
-            "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
-            "cardImg": "assets/images/Default/studierzimmer.jpg"
-          },
-          {
-            "cardName": "Faust",
-            "cardType": "Charakter",
-            "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
-            "cardImg": "assets/images/Default/studierzimmer.jpg"
-          },
-          {
-            "cardName": "Mephistopheles",
-            "cardType": "Charakter",
-            "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
-            "cardImg": "assets/images/Default/mephisto.jpg"
-          }
-        ],
-        "Quiz": [
-          {
-            "cardName": "Frage 1",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentrag\u00f6die in Goethes 'Faust 1'?",
-              "cardQuizOptions": {
-                "a": "Die Suche nach Liebe und Gl\u00fcck",
-                "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Die Gelehrtentrag\u00f6die in 'Faust 1' dreht sich haupts\u00e4chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 2",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentrag\u00f6die?",
-              "cardQuizOptions": {
-                "a": "Mephistopheles",
-                "b": "Wagner"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentrag\u00f6die, und er verk\u00f6rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 3",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welcher Schauplatz ist f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' besonders bedeutend?",
-              "cardQuizOptions": {
-                "a": "Das Dorf",
-                "b": "Das Studierzimmer"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 4",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentrag\u00f6die?",
-              "cardQuizOptions": {
-                "a": "Er ist Fausts bester Freund",
-                "b": "Er ist der Teufel, der Faust verf\u00fchrt und begleitet"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt, was zu Fausts innerem Konflikt beitr\u00e4gt."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 5",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentrag\u00f6die?",
-              "cardQuizOptions": {
-                "a": "Er erreicht ewiges Gl\u00fcck und Frieden",
-                "b": "Er bleibt unzufrieden und verzweifelt"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "In der Gelehrtentrag\u00f6die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erf\u00fcllung in seinen wissenschaftlichen Bem\u00fchungen findet."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          }
-        ]
-      }
-    },
-    "fks@nanocards.ai": {
+    "fks": {
       "Content": {
         "Collection": {
           "Libraries": [
@@ -824,7 +679,119 @@
                       "image": "https://cdn-icons-png.flaticon.com/512/6679/6679650.png"
                     }
                   ]
-                }
+                },
+                {"name": "1.3 Löschwasser",
+                "image":  "assets/images/decks00.png",
+                "Cards": [
+                  {
+                    "name": "Begriffe",
+                    "image": "assets/images/cards00.png",
+                    "Stack": [
+                        {
+                          "cardName": "Durchflussmengen",
+                          "cardType": "Begriff",
+                          "cardDesc": "Leistung der Versorgung, \u00fcblicherweise in Liter pro Minute angegeben.",
+                          "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist das Hauptziel der Brandfallsteuerung in einem Wasserversorgungssystem?",
+                                "cardQuizOptions": {
+                                  "a": "Reduzierung des Wasserverbrauchs",
+                                  "b": "Aktivierung und Steuerung der L\u00f6schreserve"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der ben\u00f6tigten L\u00f6schreserve sowie weiterer Ma\u00dfnahmen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist der prim\u00e4re Zweck der Brauchreserve in einem Wasserversorgungssystem?",
+                                "cardQuizOptions": {
+                                  "a": "Deckung von Spitzenverbr\u00e4uchen",
+                                  "b": "Speicherung von Trinkwasser"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir f\u00fcr den normalen Verbrauch und der Spitzenabdeckung."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie werden Durchflussmengen in einem Wasserversorgungssystem typischerweise angegeben?",
+                                "cardQuizOptions": {
+                                  "a": "In Kubikmetern pro Stunde",
+                                  "b": "In Litern pro Minute"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden \u00fcblicherweise in Litern pro Minute angegeben."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wodurch sind Druckzonen in einem Wasserversorgungssystem charakterisiert?",
+                                "cardQuizOptions": {
+                                  "a": "Durch unterschiedliche Wasserqualit\u00e4t",
+                                  "b": "Durch unterschiedlichen Wasserdruck"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Druckzonen im Verteilsystem der Wasserversorgung sind durch unterschiedlichen Wasserdruck charakterisiert."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wof\u00fcr steht das K\u00fcrzel 'GWP' in Bezug auf die Wasserversorgung?",
+                                "cardQuizOptions": {
+                                  "a": "Globales Wasserschutzprotokoll",
+                                  "b": "Generelle Wasserversorgungsplanung"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "GWP steht f\u00fcr 'Generelle Wasserversorgungsplanung'."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Hydrant",
+                          "cardType": "Begriff",
+                          "cardDesc": "Wasserentnahmearmatur zur Brandbek\u00e4mpfung.",
+                          "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                        },
+                        {
+                          "cardName": "L\u00f6schwasser",
+                          "cardType": "Begriff",
+                          "cardDesc": "Wasser, das zum Bek\u00e4mpfen von Br\u00e4nden dient.",
+                          "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
+                        },
+                        {
+                          "cardName": "Seewasserwerke",
+                          "cardType": "Begriff",
+                          "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.",
+                          "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
+                        },
+                        {
+                          "cardName": "Reservoir",
+                          "cardType": "Begriff",
+                          "cardDesc": "Speicher f\u00fcr Trink-, Brauch- und L\u00f6schwasser.",
+                          "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
+                        }
+                    ]
+                  }
+                ]}
               ]
             },
             {
@@ -1155,111 +1122,7 @@
               ]
             }
           ]
-        },
-        "Cards": [
-          {
-            "cardName": "Durchflussmengen",
-            "cardType": "Begriff",
-            "cardDesc": "Leistung der Versorgung, \u00fcblicherweise in Liter pro Minute angegeben.",
-            "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"
-          },
-          {
-            "cardName": "Hydrant",
-            "cardType": "Begriff",
-            "cardDesc": "Wasserentnahmearmatur zur Brandbek\u00e4mpfung.",
-            "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
-          },
-          {
-            "cardName": "L\u00f6schwasser",
-            "cardType": "Begriff",
-            "cardDesc": "Wasser, das zum Bek\u00e4mpfen von Br\u00e4nden dient.",
-            "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
-          },
-          {
-            "cardName": "Seewasserwerke",
-            "cardType": "Begriff",
-            "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.",
-            "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
-          },
-          {
-            "cardName": "Reservoir",
-            "cardType": "Begriff",
-            "cardDesc": "Speicher f\u00fcr Trink-, Brauch- und L\u00f6schwasser.",
-            "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
-          }
-        ],
-        "Quiz": [
-          {
-            "cardName": "Frage 1",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was ist das Hauptziel der Brandfallsteuerung in einem Wasserversorgungssystem?",
-              "cardQuizOptions": {
-                "a": "Reduzierung des Wasserverbrauchs",
-                "b": "Aktivierung und Steuerung der L\u00f6schreserve"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der ben\u00f6tigten L\u00f6schreserve sowie weiterer Ma\u00dfnahmen."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 2",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was ist der prim\u00e4re Zweck der Brauchreserve in einem Wasserversorgungssystem?",
-              "cardQuizOptions": {
-                "a": "Deckung von Spitzenverbr\u00e4uchen",
-                "b": "Speicherung von Trinkwasser"
-              },
-              "cardQuizSolution": "a",
-              "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir f\u00fcr den normalen Verbrauch und der Spitzenabdeckung."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 3",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Wie werden Durchflussmengen in einem Wasserversorgungssystem typischerweise angegeben?",
-              "cardQuizOptions": {
-                "a": "In Kubikmetern pro Stunde",
-                "b": "In Litern pro Minute"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden \u00fcblicherweise in Litern pro Minute angegeben."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 4",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Wodurch sind Druckzonen in einem Wasserversorgungssystem charakterisiert?",
-              "cardQuizOptions": {
-                "a": "Durch unterschiedliche Wasserqualit\u00e4t",
-                "b": "Durch unterschiedlichen Wasserdruck"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Druckzonen im Verteilsystem der Wasserversorgung sind durch unterschiedlichen Wasserdruck charakterisiert."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 5",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Wof\u00fcr steht das K\u00fcrzel 'GWP' in Bezug auf die Wasserversorgung?",
-              "cardQuizOptions": {
-                "a": "Globales Wasserschutzprotokoll",
-                "b": "Generelle Wasserversorgungsplanung"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "GWP steht f\u00fcr 'Generelle Wasserversorgungsplanung'."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          }
-        ]
+        }
       }
     },
     "grace": {
@@ -1418,143 +1281,7 @@
         ]
       }
     },
-    "grace@nanocards.ai": {
-      "Content": {
-        "Collection": {
-          "Libraries": [
-            {
-              "name": "St. Moritz",
-              "image": "assets/images/StMoritz/library_cover.jpg",
-              "Cases": [
-                {
-                  "name": "Ort",
-                  "image": "assets/images/StMoritz/location.jpg",
-                  "Books": [
-                    {
-                      "name": "Geschichte von St. Moritz",
-                      "image": "assets/images/StMoritz/history.jpg"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        "Browse": {
-          "Boxes": [
-            {
-              "name": "Grace",
-              "image": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
-              "Decks": [
-                {
-                  "name": "Default",
-                  "image": "https://cdn-icons-png.flaticon.com/512/2631/2631384.png",
-                  "Cards": [
-                    {
-                      "name": "Default",
-                      "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        "Cards": [
-          {
-            "cardName": "Wintersport",
-            "cardType": "Aktivit\u00e4t",
-            "cardDesc": "St. Moritz ist ein beliebtes Ziel f\u00fcr Wintersportaktivit\u00e4ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          },
-          {
-            "cardName": "Polo on Snow",
-            "cardType": "Veranstaltung",
-            "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          },
-          {
-            "cardName": "Luxusresorts",
-            "cardType": "Unterkunft",
-            "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          }
-        ],
-        "Quiz": [
-          {
-            "cardName": "Frage 1",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
-              "cardQuizOptions": {
-                "a": "Bern",
-                "b": "Graub\u00fcnden"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graub\u00fcnden in der Schweiz."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 2",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
-              "cardQuizOptions": {
-                "a": "Strandtourismus",
-                "b": "Wintersporttourismus"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz ist besonders f\u00fcr den Wintersporttourismus bekannt, insbesondere f\u00fcr Skifahren und Snowboarden."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 3",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelm\u00e4\u00dfig in St. Moritz statt?",
-              "cardQuizOptions": {
-                "a": "Internationales Filmfestival",
-                "b": "Polo on Snow"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelm\u00e4\u00dfig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 4",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel f\u00fcr Reiche und Prominente?",
-              "cardQuizOptions": {
-                "a": "G\u00fcnstige Preise",
-                "b": "Exklusive Luxusresorts und -hotels"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz ist bekannt f\u00fcr seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel f\u00fcr Reiche und Prominente machen."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 5",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche Sprache wird in St. Moritz haupts\u00e4chlich gesprochen?",
-              "cardQuizOptions": {
-                "a": "Franz\u00f6sisch",
-                "b": "R\u00e4toromanisch und Deutsch"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "In St. Moritz werden haupts\u00e4chlich R\u00e4toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graub\u00fcnden."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          }
-        ]
-      }
-    },
-    "ibk-snow@nanocards.ai": {
+    "ibk-snow": {
       "Content": {
         "Collection": {
           "Libraries": [
