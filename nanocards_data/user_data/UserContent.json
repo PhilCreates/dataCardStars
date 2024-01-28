@@ -1225,21 +1225,21 @@
           "Boxes": [
             {
               "name": "Hotel Grace",
-              "image": "assets/images/boxes00.png",
+              "image": "assets/images/Grace/hotel-grace-logo.png",
               "Decks": [
                 {
                   "name": "Tourismus Infos",
-                  "image": "assets/images/decks00.png",
+                  "image": "https://www.merdingen.de/site/Merdingen/get/params_E2108013332/852968/tourist-information.png",
                   "Cards": [
                     {
                       "name": "St. Moritz",
                       "image": "assets/images/Grace/st. moritz.png",
                       "Stack": [
                         {
-                          "cardName": "Wintersport",
+                          "cardName": "St. Moritz",
                           "cardType": "Aktivit\u00e4t",
-                          "cardDesc": "St. Moritz ist ein beliebtes Ziel f\u00fcr Wintersportaktivit\u00e4ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
-                          "cardImg": "assets/images/Grace/st. moritz.png",
+                          "cardDesc": "St. Moritz ist ein luxuriöser alpiner Ferienort im schweizerischen Tal Engadin.",
+                          "cardImg": "assets/images/Grace/st moritz.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -1329,13 +1329,21 @@
                     },
                     {
                       "name": "Attraktionen",
-                      "image": "https://cdn.getyourguide.com/img/tour/881684b695add9d7.jpeg/146.jpg"
+                      "image": "https://cdn.getyourguide.com/img/tour/881684b695add9d7.jpeg/146.jpg",
+                      "Stack": [
+                        {
+                          "cardName": "Wintersport",
+                          "cardType": "Sportangebot",
+                          "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                          "cardImg": "assets/images/Grace/wintersport.png"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "name": "Leadership Training",
-                  "image": "assets/images/decks00.png",
+                  "image": "https://media.istockphoto.com/id/1305960821/de/vektor/coaching-rgb-farbsymbol.jpg?s=612x612&w=0&k=20&c=bXWF6e4V8lTQ7Tyl-uENalQcsLesPDufYeVIMPMpgbE=",
                   "Cards": [
                     {
                       "name": "Organizational Culture",
