@@ -1233,7 +1233,99 @@
                   "Cards": [
                     {
                       "name": "Card 1.1.1",
-                      "image": "assets/images/cards00.png"
+                      "image": "assets/images/cards00.png",
+                      "Stack": [
+                        {
+                          "cardName": "Wintersport",
+                          "cardType": "Aktivit\u00e4t",
+                          "cardDesc": "St. Moritz ist ein beliebtes Ziel f\u00fcr Wintersportaktivit\u00e4ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                          "cardImg": "assets/images/Grace/st. moritz.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
+                                "cardQuizOptions": {
+                                  "a": "Bern",
+                                  "b": "Graub\u00fcnden"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graub\u00fcnden in der Schweiz."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
+                                "cardQuizOptions": {
+                                  "a": "Strandtourismus",
+                                  "b": "Wintersporttourismus"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "St. Moritz ist besonders f\u00fcr den Wintersporttourismus bekannt, insbesondere f\u00fcr Skifahren und Snowboarden."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelm\u00e4\u00dfig in St. Moritz statt?",
+                                "cardQuizOptions": {
+                                  "a": "Internationales Filmfestival",
+                                  "b": "Polo on Snow"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelm\u00e4\u00dfig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel f\u00fcr Reiche und Prominente?",
+                                "cardQuizOptions": {
+                                  "a": "G\u00fcnstige Preise",
+                                  "b": "Exklusive Luxusresorts und -hotels"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "St. Moritz ist bekannt f\u00fcr seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel f\u00fcr Reiche und Prominente machen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Sprache wird in St. Moritz haupts\u00e4chlich gesprochen?",
+                                "cardQuizOptions": {
+                                  "a": "Franz\u00f6sisch",
+                                  "b": "R\u00e4toromanisch und Deutsch"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "In St. Moritz werden haupts\u00e4chlich R\u00e4toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graub\u00fcnden."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Polo on Snow",
+                          "cardType": "Veranstaltung",
+                          "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
+                          "cardImg": "assets/images/Grace/st. moritz.png"
+                        },
+                        {
+                          "cardName": "Luxusresorts",
+                          "cardType": "Unterkunft",
+                          "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
+                          "cardImg": "assets/images/Grace/st. moritz.png"
+                        }
+                      ]
                     },
                     {
                       "name": "Card 1.1.2",
@@ -1260,99 +1352,7 @@
               ]
             }
           ]
-        },
-        "Cards": [
-          {
-            "cardName": "Wintersport",
-            "cardType": "Aktivit\u00e4t",
-            "cardDesc": "St. Moritz ist ein beliebtes Ziel f\u00fcr Wintersportaktivit\u00e4ten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          },
-          {
-            "cardName": "Polo on Snow",
-            "cardType": "Veranstaltung",
-            "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          },
-          {
-            "cardName": "Luxusresorts",
-            "cardType": "Unterkunft",
-            "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
-            "cardImg": "assets/images/Grace/st. moritz.png"
-          }
-        ],
-        "Quiz": [
-          {
-            "cardName": "Frage 1",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
-              "cardQuizOptions": {
-                "a": "Bern",
-                "b": "Graub\u00fcnden"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graub\u00fcnden in der Schweiz."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 2",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
-              "cardQuizOptions": {
-                "a": "Strandtourismus",
-                "b": "Wintersporttourismus"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz ist besonders f\u00fcr den Wintersporttourismus bekannt, insbesondere f\u00fcr Skifahren und Snowboarden."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 3",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelm\u00e4\u00dfig in St. Moritz statt?",
-              "cardQuizOptions": {
-                "a": "Internationales Filmfestival",
-                "b": "Polo on Snow"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelm\u00e4\u00dfig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 4",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel f\u00fcr Reiche und Prominente?",
-              "cardQuizOptions": {
-                "a": "G\u00fcnstige Preise",
-                "b": "Exklusive Luxusresorts und -hotels"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "St. Moritz ist bekannt f\u00fcr seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel f\u00fcr Reiche und Prominente machen."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 5",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welche Sprache wird in St. Moritz haupts\u00e4chlich gesprochen?",
-              "cardQuizOptions": {
-                "a": "Franz\u00f6sisch",
-                "b": "R\u00e4toromanisch und Deutsch"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "In St. Moritz werden haupts\u00e4chlich R\u00e4toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graub\u00fcnden."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          }
-        ]
+        }
       }
     },
     "ibk-snow": {
