@@ -1453,106 +1453,106 @@
                   "Cards": [
                     {
                       "name": "Default",
-                      "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
+                      "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png",
+                      "Stack": [
+                        {
+                          "cardName": "Snowboarden",
+                          "cardType": "Sport",
+                          "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abh\u00e4nge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
+                          "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' f\u00fcr das erste Snowboard?",
+                                "cardQuizOptions": {
+                                  "a": "Eine Kombination aus 'Snow' und 'Surf'",
+                                  "b": "Die Abk\u00fcrzung f\u00fcr 'Snow Rider'"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Der Name 'Snurfer' f\u00fcr das erste Snowboard stammt von der Kombination der W\u00f6rter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wer wird in der Geschichte oft f\u00fcr die Erfindung des Snowboards genannt?",
+                                "cardQuizOptions": {
+                                  "a": "Sherman Poppen",
+                                  "b": "Sherman Skier"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Sherman Poppen wird oft f\u00fcr die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was war urspr\u00fcnglich der Zweck der Erfindung des Snowboards?",
+                                "cardQuizOptions": {
+                                  "a": "Ein Spa\u00dfger\u00e4t f\u00fcr Kinder im Schnee",
+                                  "b": "Eine Alternative zum Skifahren f\u00fcr Erwachsene"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den urspr\u00fcnglichen Zweck, ein unterhaltsames Ger\u00e4t f\u00fcr seine T\u00f6chter im Schnee zu schaffen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welchen Namen gab Sherman Poppen seiner Erfindung?",
+                                "cardQuizOptions": {
+                                  "a": "Snowy Surfer",
+                                  "b": "Snurfer"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den W\u00f6rtern 'Snow' und 'Surf'."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Warum wird das erste Snowboard oft als 'Snurfer' bezeichnet?",
+                                "cardQuizOptions": {
+                                  "a": "Weil es wie ein Surfbrett aussah",
+                                  "b": "Weil es sich auf dem Schnee surfen lie\u00df"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen lie\u00df und Elemente des Surfens enthielt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Snowboard",
+                          "cardType": "Ausr\u00fcstung",
+                          "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
+                          "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                        },
+                        {
+                          "cardName": "Halfpipe",
+                          "cardType": "Fahrtstrecke",
+                          "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneer\u00f6hre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Spr\u00fcnge auszuf\u00fchren. Halfpipes sind Teil von Snowparks.",
+                          "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             }
           ]
-        },
-        "Cards": [
-          {
-            "cardName": "Snowboarden",
-            "cardType": "Sport",
-            "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abh\u00e4nge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
-            "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
-          },
-          {
-            "cardName": "Snowboard",
-            "cardType": "Ausr\u00fcstung",
-            "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
-            "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
-          },
-          {
-            "cardName": "Halfpipe",
-            "cardType": "Fahrtstrecke",
-            "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneer\u00f6hre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Spr\u00fcnge auszuf\u00fchren. Halfpipes sind Teil von Snowparks.",
-            "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
-          }
-        ],
-        "Quiz": [
-          {
-            "cardName": "Frage 1",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' f\u00fcr das erste Snowboard?",
-              "cardQuizOptions": {
-                "a": "Eine Kombination aus 'Snow' und 'Surf'",
-                "b": "Die Abk\u00fcrzung f\u00fcr 'Snow Rider'"
-              },
-              "cardQuizSolution": "a",
-              "cardQuizExplanation": "Der Name 'Snurfer' f\u00fcr das erste Snowboard stammt von der Kombination der W\u00f6rter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 2",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Wer wird in der Geschichte oft f\u00fcr die Erfindung des Snowboards genannt?",
-              "cardQuizOptions": {
-                "a": "Sherman Poppen",
-                "b": "Sherman Skier"
-              },
-              "cardQuizSolution": "a",
-              "cardQuizExplanation": "Sherman Poppen wird oft f\u00fcr die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 3",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Was war urspr\u00fcnglich der Zweck der Erfindung des Snowboards?",
-              "cardQuizOptions": {
-                "a": "Ein Spa\u00dfger\u00e4t f\u00fcr Kinder im Schnee",
-                "b": "Eine Alternative zum Skifahren f\u00fcr Erwachsene"
-              },
-              "cardQuizSolution": "a",
-              "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den urspr\u00fcnglichen Zweck, ein unterhaltsames Ger\u00e4t f\u00fcr seine T\u00f6chter im Schnee zu schaffen."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 4",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Welchen Namen gab Sherman Poppen seiner Erfindung?",
-              "cardQuizOptions": {
-                "a": "Snowy Surfer",
-                "b": "Snurfer"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den W\u00f6rtern 'Snow' und 'Surf'."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          },
-          {
-            "cardName": "Frage 5",
-            "cardType": "Question",
-            "cardQuiz": {
-              "cardQuizQuestion": "Warum wird das erste Snowboard oft als 'Snurfer' bezeichnet?",
-              "cardQuizOptions": {
-                "a": "Weil es wie ein Surfbrett aussah",
-                "b": "Weil es sich auf dem Schnee surfen lie\u00df"
-              },
-              "cardQuizSolution": "b",
-              "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen lie\u00df und Elemente des Surfens enthielt."
-            },
-            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-          }
-        ]
+        }
       }
     }
   }
