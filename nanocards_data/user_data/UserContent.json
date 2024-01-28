@@ -1233,7 +1233,7 @@
                   "Cards": [
                     {
                       "name": "St. Moritz",
-                      "image": "assets/images/cards00.png",
+                      "image": "assets/images/Grace/st. moritz.png",
                       "Stack": [
                         {
                           "cardName": "Wintersport",
@@ -1329,7 +1329,7 @@
                     },
                     {
                       "name": "Attraktionen",
-                      "image": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                      "image": "https://cdn.getyourguide.com/img/tour/881684b695add9d7.jpeg/146.jpg"
                     }
                   ]
                 },
@@ -1339,7 +1339,7 @@
                   "Cards": [
                     {
                       "name": "Organizational Culture",
-                      "image": "assets/images/cards00.png",
+                      "image": "assets/images/Grace/organizational_culture.webp",
                       "Stack": [
                         {
                           "cardName": "Organizational Culture",
@@ -1376,10 +1376,6 @@
                           "cardImg": "assets/images/Grace/organizational_culture.webp"
                         }
                       ]
-                    },
-                    {
-                      "name": "Attraktionen",
-                      "image": "assets/images/Grace/st. moritz.png"
                     }
                   ]
                 }
