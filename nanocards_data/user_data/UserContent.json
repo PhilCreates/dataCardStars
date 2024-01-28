@@ -1229,7 +1229,7 @@
               "Decks": [
                 {
                   "name": "Tourismus Infos",
-                  "image": "https://www.merdingen.de/site/Merdingen/get/params_E2108013332/852968/tourist-information.png",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/1024px-Logo_informations.svg.png",
                   "Cards": [
                     {
                       "name": "St. Moritz",
@@ -1239,7 +1239,7 @@
                           "cardName": "St. Moritz",
                           "cardType": "Aktivit\u00e4t",
                           "cardDesc": "St. Moritz ist ein luxuriöser alpiner Ferienort im schweizerischen Tal Engadin.",
-                          "cardImg": "assets/images/Grace/st moritz.png",
+                          "cardImg": "assets/images/Grace/st. moritz.png",
                           "Quiz": [
                             {
                               "cardName": "Frage 1",
@@ -1317,13 +1317,13 @@
                           "cardName": "Polo on Snow",
                           "cardType": "Veranstaltung",
                           "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
-                          "cardImg": "assets/images/Grace/st. moritz.png"
+                          "cardImg": "assets/images/Grace/polo on snow.jpg"
                         },
                         {
                           "cardName": "Luxusresorts",
                           "cardType": "Unterkunft",
                           "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
-                          "cardImg": "assets/images/Grace/st. moritz.png"
+                          "cardImg": "assets/images/Grace/hotel grace luxus.jpg"
                         }
                       ]
                     },
@@ -1375,7 +1375,7 @@
                           "cardName": "The Vibe",
                           "cardType": "InfoCard",
                           "cardDesc": "Imagine organizational culture as the \"vibe\" or atmosphere in your workplace. It includes the beliefs, values, and how people interact within an organization. It sets the tone for how work is done and how employees relate to each other.",
-                          "cardImg": "assets/images/Grace/st. moritz.png"
+                          "cardImg": "assets/images/Grace/organizational_culture.webp"
                         },
                         {
                           "cardName": "Belonging and Purpose",
