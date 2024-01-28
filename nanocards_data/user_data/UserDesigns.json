@@ -1,6 +1,6 @@
 {
   "Users": {
-  "def": {
+    "def": {
       "Designs": {
         "corporate_name": "Neuer User",
         "corporate_image_url": "assets/images/favicon.png",
@@ -15,7 +15,7 @@
         "color_corporate_quiz_outer": "#1565C0"
       }
     },
-    "fks@nanocards.ai": {
+    "fks": {
       "Designs": {
         "corporate_name": "Feuerwehr Kommando Schweiz",
         "corporate_image_url": "assets/images/FKS/logo_fks_cssp_csp.webp",
@@ -45,22 +45,7 @@
         "color_corporate_quiz_outer": "#000000"
       }
     },
-    "grace@nanocards.ai": {
-      "Designs": {
-        "corporate_name": "Hotel Grace St. Moritz",
-        "corporate_image_url": "assets/images/Grace/hotel-grace-logo.png",
-        "color_corporate_first": "#FFFFFF",
-        "color_corporate_second": "#808080",
-        "color_corporate_third": "#808080",
-        "color_corporate_title": "#000000",
-        "color_corporate_title_shadow": "#FFFFFF",
-        "color_corporate_sub": "#424242",
-        "color_corporate_desc": "#000000",
-        "color_corporate_quiz_inner": "#FFFFFF",
-        "color_corporate_quiz_outer": "#1565C0"
-      }
-    },
-    "ibk-snow@nanocards.ai": {
+    "ibk-snow": {
       "Designs": {
         "corporate_name": "IBK S`NOW",
         "corporate_image_url": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",

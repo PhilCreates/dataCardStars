@@ -1224,15 +1224,15 @@
         "Browse": {
           "Boxes": [
             {
-              "name": "Box 1",
+              "name": "Hotel Grace",
               "image": "assets/images/boxes00.png",
               "Decks": [
                 {
-                  "name": "Set 1.1",
+                  "name": "Tourismus Infos",
                   "image": "assets/images/decks00.png",
                   "Cards": [
                     {
-                      "name": "Card 1.1.1",
+                      "name": "St. Moritz",
                       "image": "assets/images/cards00.png",
                       "Stack": [
                         {
@@ -1328,24 +1328,58 @@
                       ]
                     },
                     {
-                      "name": "Card 1.1.2",
+                      "name": "Attraktionen",
                       "image": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                    }
+                  ]
+                },
+                {
+                  "name": "Leadership Training",
+                  "image": "assets/images/decks00.png",
+                  "Cards": [
+                    {
+                      "name": "Organizational Culture",
+                      "image": "assets/images/cards00.png",
+                      "Stack": [
+                        {
+                          "cardName": "Organizational Culture",
+                          "cardType": "InfoCard",
+                          "cardDesc": "Organizational culture is like the personality and soul of our company. It's what makes us unique. It is our shared set of values, beliefs, and behaviors that define how we operate.",
+                          "cardImg": "assets/images/Grace/organizational_culture.webp",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "What is Organizational Culture for us?",
+                                "cardQuizOptions": {
+                                  "a": "The modern and pleasing interior design of our company.",
+                                  "b": "The personality of our brand, reflecting our values and guiding our behavior."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Hotel Grace understands organizational culture as the personality of our brand, reflecting our values and guiding our behavior."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "The Vibe",
+                          "cardType": "InfoCard",
+                          "cardDesc": "Imagine organizational culture as the \"vibe\" or atmosphere in your workplace. It includes the beliefs, values, and how people interact within an organization. It sets the tone for how work is done and how employees relate to each other.",
+                          "cardImg": "assets/images/Grace/st. moritz.png"
+                        },
+                        {
+                          "cardName": "Belonging and Purpose",
+                          "cardType": "InfoCard",
+                          "cardDesc": "A strong culture can create a sense of belonging and purpose among employees and a unique, unforgettable experience for our clients. It comprises the guiding principles for every interaction, both within our team and with our business partners.",
+                          "cardImg": "assets/images/Grace/organizational_culture.webp"
+                        }
+                      ]
                     },
                     {
-                      "name": "Card 1.1.2",
-                      "image": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp"
-                    },
-                    {
-                      "name": "Card 1.1.2",
-                      "image": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
-                    },
-                    {
-                      "name": "Card 1.1.2",
-                      "image": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
-                    },
-                    {
-                      "name": "Card 1.1.2",
-                      "image": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
+                      "name": "Attraktionen",
+                      "image": "assets/images/Grace/st. moritz.png"
                     }
                   ]
                 }
