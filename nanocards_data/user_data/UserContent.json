@@ -605,6 +605,80 @@
         }
       }
     },
+    "demo": {
+      "Content": {
+        "Browse": {
+          "Boxes": [
+            {"name": "Schule", "image": "assets/images/boxes00.png",
+            "Decks": [
+              {"name": "Abitur", "image": "assets/images/decks00.png",
+              "Cards": [
+                {"name": "Deutsch", "image": "assets/images/cards00.png",
+                "Stack": [
+                  {
+                    "cardName": "Lektüre",
+                    "cardType": "Uebersicht",
+                    "cardDesc": "Das Deutsch-Abitur umfasst verschiedene Lektüren.",
+                    "cardImg": "assets/images/fact_icon.png",
+                    "Quiz": [
+                      {
+                        "cardName": "Frage 1",
+                        "cardType": "Question",
+                        "cardQuiz": {
+                          "cardQuizQuestion": "Welche Lektüren umfasste das Deutsch-Abitur 2008 in Baden-Württemberg?",
+                          "cardQuizOptions": {
+                            "a": "Faust I (Goethe)",
+                            "b": "Die Räuber (Schiller)"
+                          },
+                          "cardQuizSolution": "b",
+                          "cardQuizExplanation": "2008 war die Lektüre Die Räumber von Schiller Teil des Deutsch-Abiturs."
+                        }
+                      }
+                    ]
+                  }
+                ]
+                }
+              ]
+              }
+            ]
+            },
+            {"name": "Cloud-Skills", "image": "assets/images/boxes00.png",
+            "Decks": [
+              {"name": "Azure Cloud", "image": "assets/images/decks00.png",
+              "Cards": [
+                {"name": "Database Services", "image": "assets/images/cards00.png",
+                "Stack": [
+                  {
+                    "cardName": "Azure Cosmos DB",
+                    "cardType": "Cloud Service",
+                    "cardDesc": "Azure Cosmos DB ist ein weltweit verteilter Datenbankdienst mit mehreren Modellen, der von Microsoft angeboten wird.",
+                    "cardImg": "assets/images/fact_icon.png",
+                    "Quiz": [
+                      {
+                        "cardName": "Frage 1",
+                        "cardType": "Question",
+                        "cardQuiz": {
+                          "cardQuizQuestion": "Welche Datenbank-Typ ist Azure Cosmos DB?",
+                          "cardQuizOptions": {
+                            "a": "SQL",
+                            "b": "NoSQL"
+                          },
+                          "cardQuizSolution": "b",
+                          "cardQuizExplanation": "Azure Cosmos DB ist eine NoSQL Document Datenbank."
+                        }
+                      }
+                    ]
+                  }
+                ]
+                }
+              ]
+              }
+            ]
+            }
+          ]
+        }
+      }
+    },
     "fks": {
       "Content": {
         "Collection": {
