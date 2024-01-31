@@ -3,7 +3,13 @@
     "def": {
       "Designs": {
         "corporate_name": "Neuer User",
-        "corporate_image_url": "assets/images/favicon.png",
+        "corporate_image_path": "assets/images/favicon.png",
+        "libraries_icon_path": "assets/images/libraries00.png",
+        "cases_icon_path": "assets/images/cases00.png",
+        "books_icon_path": "assets/images/books00.png",
+        "boxes_icon_path": "assets/images/boxes00.png",
+        "decks_icon_path": "assets/images/decks00.png",
+        "cards_icon_path": "assets/images/cards00.png",
         "color_corporate_first": "#000000",
         "color_corporate_second": "#FFFFFF",
         "color_corporate_third": "#FFFFFF",
@@ -18,7 +24,13 @@
     "fks": {
       "Designs": {
         "corporate_name": "Feuerwehr Kommando Schweiz",
-        "corporate_image_url": "assets/images/FKS/logo_fks_cssp_csp.webp",
+        "corporate_image_path": "assets/images/FKS/logo_fks_cssp_csp.webp",
+        "libraries_icon_path": "assets/images/libraries.png",
+        "cases_icon_path": "assets/images/cases.png",
+        "books_icon_path": "assets/images/books.png",
+        "boxes_icon_path": "assets/images/boxes.png",
+        "decks_icon_path": "assets/images/decks.png",
+        "cards_icon_path": "assets/images/cards.png",
         "color_corporate_first": "#FF0000",
         "color_corporate_second": "#FFFFFF",
         "color_corporate_third": "#FFF9C4",
@@ -33,7 +45,13 @@
     "grace": {
       "Designs": {
         "corporate_name": "Hotel Grace St. Moritz",
-        "corporate_image_url": "assets/images/Grace/hotel-grace-logo.png",
+        "corporate_image_path": "assets/images/Grace/hotel-grace-logo.png",
+        "libraries_icon_path": "assets/images/libraries.png",
+        "cases_icon_path": "assets/images/cases.png",
+        "books_icon_path": "assets/images/books.png",
+        "boxes_icon_path": "assets/images/boxes.png",
+        "decks_icon_path": "assets/images/decks.png",
+        "cards_icon_path": "assets/images/cards.png",
         "color_corporate_first": "#000000",
         "color_corporate_second": "#FFFFFF",
         "color_corporate_third": "#808080",
@@ -48,7 +66,13 @@
     "ibk-snow": {
       "Designs": {
         "corporate_name": "IBK S`NOW",
-        "corporate_image_url": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+        "corporate_image_path": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+        "libraries_icon_path": "assets/images/libraries.png",
+        "cases_icon_path": "assets/images/cases.png",
+        "books_icon_path": "assets/images/books.png",
+        "boxes_icon_path": "assets/images/boxes.png",
+        "decks_icon_path": "assets/images/decks.png",
+        "cards_icon_path": "assets/images/cards.png",
         "color_corporate_first": "#FEC600",
         "color_corporate_second": "#000000",
         "color_corporate_third": "#808080",
