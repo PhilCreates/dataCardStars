@@ -1292,11 +1292,11 @@
                                 ]
                               },
                               {"name": "1.3 Löschwasser",
-                                "image":  "assets/images/decks00.png",
+                                "image":  "https://media.istockphoto.com/id/627149672/de/vektor/bluttropfen-symbol.jpg?s=612x612&w=0&k=20&c=rb34X52v0MeMdnZJy-kcbOSD4JtMW_PxAkFnBQytvzw=",
                                 "Cards": [
                                   {
                                     "name": "Begriffe",
-                                    "image": "assets/images/cards00.png",
+                                    "image": "https://png.pngtree.com/png-vector/20190514/ourmid/pngtree-def-file-format-icon-design-png-image_1040746.jpg",
                                     "Stack": [
                                       {
                                         "cardName": "Durchflussmengen",
