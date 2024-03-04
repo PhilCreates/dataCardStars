@@ -4189,6 +4189,33 @@
           ]
         }
       }
+    },
+    "gdpr": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Privacy",
+              "image": "https://images.ctfassets.net/23aumh6u8s0i/3TRYElMxIaNLqt7rXCrAG7/29560e70503c861cfe85632ecac78d03/privacy",
+              "Cases": [
+                {
+                  "name": "Certifications",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_SmSftuuK3f0HL_fQlkBd0TPzNjIdY714g&usqp=CAU",
+                  "Books": [
+                    {
+                      "name": "CIPP Europe",
+                      "image": "https://iapp.org/wp-content/themes/iapp/static/img/CertificationSeals_master2023_FINAL_CIPP_E.png",
+                      "Browse": {
+                        "Boxes": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   }
 }
