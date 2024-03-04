@@ -4206,7 +4206,470 @@
                       "name": "CIPP Europe",
                       "image": "https://iapp.org/wp-content/themes/iapp/static/img/CertificationSeals_master2023_FINAL_CIPP_E.png",
                       "Browse": {
-                        "Boxes": []
+                        "Boxes": [
+                          {
+                            "name": "I. Introduction to European Data Protection",
+                            "image": "assets/images/boxes0.png",
+                            "Decks": [
+                              {
+                                "name": "A. Origins and Historical Context of Data Protection Law",
+                                "image": "assets/images/decks0.png",
+                                "Cards": [
+                                  {
+                                    "name": "1. Rationale for data protection",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Einfluss auf Datenschutzgesetze",
+                                        "cardType": "Historischer Kontext",
+                                        "cardDesc": "Welche historischen Ereignisse und Entwicklungen haben die Entstehung und Entwicklung der Datenschutzgesetze beeinflusst?",
+                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "DSGVO",
+                                            "cardType": "Gesetz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wann trat die Datenschutz-Grundverordnung (DSGVO) in Kraft?",
+                                              "cardQuizOptions": {
+                                                "a": "25. Mai 2016",
+                                                "b": "25. Mai 2018"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die DSGVO trat am 25. Mai 2018 in Kraft."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Privacy Shield",
+                                            "cardType": "Abkommen",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wurde das Datenschutzabkommen 'Privacy Shield' zwischen EU und USA vom Europ\u00e4ischen Gerichtshof f\u00fcr ung\u00fcltig erkl\u00e4rt?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Das 'Privacy Shield' wurde im Juli 2020 vom Europ\u00e4ischen Gerichtshof f\u00fcr ung\u00fcltig erkl\u00e4rt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Recht",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Ist das Recht auf Datenschutz in der Charta der Grundrechte der Europ\u00e4ischen Union verankert?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Das Recht auf Datenschutz ist in Artikel 8 der Charta der Grundrechte der Europ\u00e4ischen Union verankert."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutzverletzung",
+                                            "cardType": "Versto\u00df",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "M\u00fcssen Unternehmen Datenschutzverletzungen innerhalb von 72 Stunden der zust\u00e4ndigen Aufsichtsbeh\u00f6rde melden?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Gem\u00e4\u00df Artikel 33 DSGVO m\u00fcssen Unternehmen Datenschutzverletzungen innerhalb von 72 Stunden der zust\u00e4ndigen Aufsichtsbeh\u00f6rde melden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutzbeauftragter",
+                                            "cardType": "Position",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "M\u00fcssen alle Unternehmen einen Datenschutzbeauftragten ernennen?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Nicht alle Unternehmen m\u00fcssen einen Datenschutzbeauftragten ernennen. Dies ist abh\u00e4ngig von der Art der Datenverarbeitung und der Anzahl der Mitarbeiter."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Drittl\u00e4nder",
+                                            "cardType": "Begriff",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Sind Daten\u00fcbermittlungen in Drittl\u00e4nder au\u00dferhalb des EWR ohne weitere Anforderungen erlaubt?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Daten\u00fcbermittlungen in Drittl\u00e4nder erfordern besondere Schutzma\u00dfnahmen und d\u00fcrfen nicht ohne weiteres erfolgen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz-Folgenabsch\u00e4tzung",
+                                            "cardType": "Prozess",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Ist eine Datenschutz-Folgenabsch\u00e4tzung immer erforderlich, wenn personenbezogene Daten verarbeitet werden?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Eine Datenschutz-Folgenabsch\u00e4tzung ist nur in bestimmten F\u00e4llen erforderlich, beispielsweise wenn eine Verarbeitung ein hohes Risiko f\u00fcr die Rechte und Freiheiten nat\u00fcrlicher Personen darstellt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Einwilligung",
+                                            "cardType": "Grundlage",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Muss die Einwilligung zur Datenverarbeitung immer schriftlich erfolgen?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Einwilligung zur Datenverarbeitung kann in verschiedenen Formen erfolgen, muss aber stets nachweisbar sein."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Recht auf Vergessenwerden",
+                                            "cardType": "Recht",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gilt das Recht auf Vergessenwerden uneingeschr\u00e4nkt?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Recht auf Vergessenwerden gilt nicht uneingeschr\u00e4nkt. Es k\u00f6nnen Ausnahmen bestehen, beispielsweise bei der Aus\u00fcbung des Rechts auf freie Meinungs\u00e4u\u00dferung und Information."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz und Kinder",
+                                            "cardType": "Spezieller Schutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gibt es nach der DSGVO spezielle Schutzma\u00dfnahmen f\u00fcr die Datenverarbeitung von Kindern?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die DSGVO enth\u00e4lt spezielle Schutzma\u00dfnahmen f\u00fcr die Datenverarbeitung von Kindern, beispielsweise im Kontext von Diensten der Informationsgesellschaft."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Rationale hinter Datenschutz",
+                                        "cardType": "Theoretisches Verst\u00e4ndnis",
+                                        "cardDesc": "Was sind die Hauptgr\u00fcnde und \u00dcberlegungen f\u00fcr die Notwendigkeit von Datenschutzgesetzen im Kontext der europ\u00e4ischen Union?",
+                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Informationelle Selbstbestimmung",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Prinzip der informationellen Selbstbestimmung?",
+                                              "cardQuizOptions": {
+                                                "a": "Es bezieht sich auf das Recht, \u00fcber die Verwendung und Weitergabe pers\u00f6nlicher Daten selbst zu entscheiden.",
+                                                "b": "Es bezieht sich auf die Pflicht, alle pers\u00f6nlichen Informationen offen zu legen."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Das Prinzip der informationellen Selbstbestimmung gibt dem Einzelnen das Recht, \u00fcber die Verwendung seiner pers\u00f6nlichen Daten selbst zu entscheiden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Rationale hinter Datenschutz",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Warum ist Datenschutz wichtig?",
+                                              "cardQuizOptions": {
+                                                "a": "Um die Privatsph\u00e4re der Menschen zu sch\u00fctzen.",
+                                                "b": "Um die Verbreitung von Fehlinformationen zu verhindern."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Datenschutz dient dazu, die Privatsph\u00e4re und die pers\u00f6nlichen Daten von Einzelpersonen zu sch\u00fctzen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutzgesetze",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welches Gesetz sch\u00fctzt die pers\u00f6nlichen Daten von EU-B\u00fcrgern?",
+                                              "cardQuizOptions": {
+                                                "a": "Die DSGVO (Datenschutz-Grundverordnung)",
+                                                "b": "Die HIPAA (Health Insurance Portability and Accountability Act)"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die DSGVO sch\u00fctzt die pers\u00f6nlichen Daten von EU-B\u00fcrgern."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutzverletzungen",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was kann die Folge einer Datenschutzverletzung sein?",
+                                              "cardQuizOptions": {
+                                                "a": "Verlust von Gesch\u00e4ftsm\u00f6glichkeiten",
+                                                "b": "Erh\u00f6hung der Arbeitsmoral"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Datenschutzverletzungen k\u00f6nnen zu erheblichen finanziellen Verlusten, Verlust von Gesch\u00e4ftsm\u00f6glichkeiten und Reputationsverlust f\u00fchren."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "PII",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was bedeutet PII im Kontext des Datenschutzes?",
+                                              "cardQuizOptions": {
+                                                "a": "Public Internet Information",
+                                                "b": "Personally Identifiable Information"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "PII steht f\u00fcr Personally Identifiable Information, also pers\u00f6nlich identifizierbare Informationen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz und Sicherheit",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Unterscheiden sich Datenschutz und Datensicherheit?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja, Datenschutz bezieht sich auf die Rechte der Einzelpersonen, w\u00e4hrend Datensicherheit die Schutzma\u00dfnahmen bezeichnet, die getroffen werden, um Daten vor unbefugtem Zugang zu sch\u00fctzen.",
+                                                "b": "Nein, Datenschutz und Datensicherheit sind dasselbe."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Datenschutz und Datensicherheit sind zwei unterschiedliche Konzepte. Datenschutz bezieht sich auf die Rechte der Einzelpersonen, w\u00e4hrend Datensicherheit die Schutzma\u00dfnahmen bezeichnet, die getroffen werden, um Daten vor unbefugtem Zugang zu sch\u00fctzen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz und Kinder",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gibt es spezielle Datenschutzgesetze f\u00fcr Kinder?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja, wie zum Beispiel das COPPA in den USA.",
+                                                "b": "Nein, Kinder unterliegen denselben Datenschutzgesetzen wie Erwachsene."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Es gibt spezielle Datenschutzgesetze f\u00fcr Kinder, wie zum Beispiel das Children's Online Privacy Protection Act (COPPA) in den USA."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz-Grundverordnung",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Recht auf Vergessenwerden in der DSGVO?",
+                                              "cardQuizOptions": {
+                                                "a": "Es ist das Recht, von einer Suchmaschine nicht mehr gefunden zu werden.",
+                                                "b": "Es ist das Recht, dass pers\u00f6nliche Daten unter bestimmten Umst\u00e4nden gel\u00f6scht werden m\u00fcssen."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Recht auf Vergessenwerden in der DSGVO beinhaltet, dass pers\u00f6nliche Daten unter bestimmten Umst\u00e4nden gel\u00f6scht werden m\u00fcssen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz und Unternehmen",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist eine Datenschutz-Folgenabsch\u00e4tzung?",
+                                              "cardQuizOptions": {
+                                                "a": "Eine Bewertung, die vor der Einf\u00fchrung neuer Technologien oder Verarbeitungsprozesse durchgef\u00fchrt wird, um potenzielle Datenschutzrisiken zu identifizieren und zu minimieren.",
+                                                "b": "Eine Beurteilung der finanziellen Auswirkungen eines Datenschutzvorfalls."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Eine Datenschutz-Folgenabsch\u00e4tzung ist eine Bewertung, die vor der Einf\u00fchrung neuer Technologien oder Verarbeitungsprozesse durchgef\u00fchrt wird, um potenzielle Datenschutzrisiken zu identifizieren und zu minimieren."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz und Technologie",
+                                            "cardType": "Datenschutz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist Privacy by Design?",
+                                              "cardQuizOptions": {
+                                                "a": "Es handelt sich um eine Methode zur Erstellung von Kunstwerken, die Datenschutz thematisieren.",
+                                                "b": "Es ist ein Konzept, bei dem Datenschutz in die Technologie von Anfang an eingebaut wird."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Privacy by Design ist ein Konzept, bei dem Datenschutz in die Technologie von Anfang an eingebaut wird."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Evolution des Datenschutzes",
+                                        "cardType": "Rechtsgeschichte",
+                                        "cardDesc": "Wie hat sich das Datenschutzrecht in Europa seit seiner Einf\u00fchrung entwickelt und welche Faktoren haben diese Entwicklung beeinflusst?",
+                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "DSGVO",
+                                            "cardType": "Datenschutzgesetz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wann trat die DSGVO in Kraft?",
+                                              "cardQuizOptions": {
+                                                "a": "25. Mai 2017",
+                                                "b": "25. Mai 2018"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Datenschutz-Grundverordnung (DSGVO) trat am 25. Mai 2018 in Kraft."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Geschichte",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wann trat das erste Bundesdatenschutzgesetz in Deutschland in Kraft?",
+                                              "cardQuizOptions": {
+                                                "a": "1977",
+                                                "b": "1970"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Das erste Bundesdatenschutzgesetz trat in Deutschland am 1. September 1977 in Kraft."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Technologie",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Technologie hat die Notwendigkeit von Datenschutzgesetzen massiv erh\u00f6ht?",
+                                              "cardQuizOptions": {
+                                                "a": "Dampfmaschine",
+                                                "b": "Internet"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Internet hat durch die einfache und schnelle Weitergabe von Daten die Notwendigkeit von Datenschutzgesetzen erh\u00f6ht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "EU",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gilt die DSGVO nur f\u00fcr Unternehmen innerhalb der EU?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die DSGVO gilt f\u00fcr alle Unternehmen, die personenbezogene Daten von EU-B\u00fcrgern verarbeiten, unabh\u00e4ngig von ihrem Standort."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Recht",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Ist das Recht auf Datenl\u00f6schung ein neues Recht, das durch die DSGVO eingef\u00fchrt wurde?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Recht auf L\u00f6schung, auch bekannt als 'Recht auf Vergessen werden', existierte auch schon vor der DSGVO, wurde aber durch diese verst\u00e4rkt und erweitert."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Geschichte",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wurde das erste Datenschutzgesetz in der Welt in Deutschland verabschiedet?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das erste Datenschutzgesetz der Welt wurde 1970 in Hessen, einem Bundesland von Deutschland, verabschiedet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Technologie",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Hat die Entwicklung von Social Media die Notwendigkeit von Datenschutzgesetzen reduziert?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Entwicklung von Social Media hat tats\u00e4chlich die Notwendigkeit von Datenschutzgesetzen erh\u00f6ht, da mehr pers\u00f6nliche Daten online geteilt werden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "DSGVO",
+                                            "cardType": "Datenschutzgesetz",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gilt die DSGVO auch f\u00fcr \u00f6ffentliche Einrichtungen?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die DSGVO gilt f\u00fcr alle Organisationen, einschlie\u00dflich \u00f6ffentlicher Einrichtungen, die personenbezogene Daten verarbeiten."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Recht",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "K\u00f6nnen Unternehmen nach der DSGVO f\u00fcr Datenschutzverst\u00f6\u00dfe bestraft werden?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Unternehmen k\u00f6nnen nach der DSGVO mit hohen Geldstrafen f\u00fcr Datenschutzverst\u00f6\u00dfe belegt werden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Datenschutz",
+                                            "cardType": "Geschichte",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Gab es Datenschutzgesetze vor dem digitalen Zeitalter?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die ersten Datenschutzgesetze wurden erst in den 1970er Jahren eingef\u00fchrt, also zu Beginn des digitalen Zeitalters."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
                       }
                     }
                   ]
