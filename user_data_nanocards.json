@@ -4696,116 +4696,116 @@
                                     "image": "assets/images/cards0.png",
                                     "Stack": [
                                       {
-                                        "cardName": "Early Adoption of Computers",
-                                        "cardType": "Historical Context",
-                                        "cardDesc": "During the early 1970s, there was a significant increase in the use of computers to process information about individuals, facilitating transborder trade and information sharing within the European Economic Community (EEC).",
-                                        "cardImg": "assets/images/image_placeholder.png",
+                                      "cardName": "Early Adoption of Computers",
+                                      "cardType": "Historical Context",
+                                      "cardDesc": "During the early 1970s, there was a significant increase in the use of computers to process information about individuals, facilitating transborder trade and information sharing within the European Economic Community (EEC). This era marked the beginning of digital transformation, influencing the way data was managed and shared across borders, highlighting the growing importance of technology in economic and social exchanges.",
+                                      "cardImg": "assets/images/privacy.png",
                                         "Quiz": [
                                           {
-                                            "cardName": "Early Computers",
+                                            "cardName": "Digital Transformation Beginning",
                                             "cardType": "History",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "In which decade did the significant increase in the use of computers to process information about individuals occur?",
+                                              "cardQuizQuestion": "What era marked the beginning of digital transformation?",
                                               "cardQuizOptions": {
-                                                "a": "1950s",
-                                                "b": "1960s",
-                                                "c": "1970s",
-                                                "d": "1980s"
-                                              },
-                                              "cardQuizSolution": "c",
-                                              "cardQuizExplanation": "During the early 1970s, there was a notable increase in computer usage for processing information about individuals."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          },
-                                          {
-                                            "cardName": "Computers and Trade",
-                                            "cardType": "Economics",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "What was one of the main benefits of the early adoption of computers in the 1970s?",
-                                              "cardQuizOptions": {
-                                                "a": "Improving personal computing",
-                                                "b": "Facilitating transborder trade",
-                                                "c": "Enhancing gaming technology",
-                                                "d": "Advancing space exploration"
+                                                "a": "Late 1960s",
+                                                "b": "Early 1970s",
+                                                "c": "Late 1970s",
+                                                "d": "Early 1980s"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "The early adoption of computers facilitated transborder trade, especially within the European Economic Community (EEC)."
+                                              "cardQuizExplanation": "The early 1970s era marked the beginning of digital transformation, changing how data was managed and shared."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
                                           {
-                                            "cardName": "Computers and Information Sharing",
-                                            "cardType": "Technology",
+                                            "cardName": "Impact on Trade and Information Sharing",
+                                            "cardType": "Economics",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "How did computers impact information sharing in the 1970s?",
+                                              "cardQuizQuestion": "What was a significant impact of the use of computers in the early 1970s?",
                                               "cardQuizOptions": {
-                                                "a": "Decreased the speed of information sharing",
-                                                "b": "Had no impact on information sharing",
-                                                "c": "Facilitated information sharing within the EEC",
-                                                "d": "Restricted information sharing globally"
+                                                "a": "Reducing the need for physical storage",
+                                                "b": "Slowing down communication speeds",
+                                                "c": "Facilitating transborder trade and information sharing",
+                                                "d": "Decreasing the efficiency of data processing"
                                               },
                                               "cardQuizSolution": "c",
-                                              "cardQuizExplanation": "Computers significantly facilitated information sharing within the European Economic Community (EEC) during the 1970s."
+                                              "cardQuizExplanation": "A significant impact of the use of computers during the early 1970s was facilitating transborder trade and information sharing."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
                                           {
-                                            "cardName": "EEC and Computers",
+                                            "cardName": "Influence of Early Computers",
+                                            "cardType": "Technology",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "How did the use of computers in the early 1970s influence data management?",
+                                              "cardQuizOptions": {
+                                                "a": "Made data less secure",
+                                                "b": "Had no significant impact on data management",
+                                                "c": "Influenced the way data was managed and shared across borders",
+                                                "d": "Made data processing significantly slower"
+                                              },
+                                              "cardQuizSolution": "c",
+                                              "cardQuizExplanation": "The use of computers in the early 1970s influenced the way data was managed and shared across borders."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Computers and the EEC",
                                             "cardType": "Political Science",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Which organization's information sharing was notably enhanced by the early adoption of computers?",
+                                              "cardQuizQuestion": "Within which organization did computers facilitate information sharing in the early 1970s?",
                                               "cardQuizOptions": {
                                                 "a": "United Nations",
                                                 "b": "European Economic Community",
                                                 "c": "North Atlantic Treaty Organization",
-                                                "d": "Association of Southeast Asian Nations"
+                                                "d": "World Trade Organization"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "The European Economic Community (EEC) significantly benefited from the early adoption of computers, enhancing information sharing and transborder trade."
+                                              "cardQuizExplanation": "Computers facilitated information sharing within the European Economic Community (EEC) in the early 1970s."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
                                           {
-                                            "cardName": "Technological Advancements",
+                                            "cardName": "Technology's Growing Importance",
                                             "cardType": "General Knowledge",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "What was a major effect of the technological advancements in computing during the early 1970s?",
+                                              "cardQuizQuestion": "What does the early 1970s' increase in computer usage highlight about technology?",
                                               "cardQuizOptions": {
-                                                "a": "The creation of the internet",
-                                                "b": "The decline of traditional industries",
-                                                "c": "The increase in personal computer usage",
-                                                "d": "The facilitation of transborder trade and information sharing"
+                                                "a": "Its declining relevance in economic exchanges",
+                                                "b": "Its growing importance in economic and social exchanges",
+                                                "c": "Its limited impact on social interactions",
+                                                "d": "Its role in reducing global trade"
                                               },
-                                              "cardQuizSolution": "d",
-                                              "cardQuizExplanation": "One of the major effects of the technological advancements in computing during the early 1970s was the facilitation of transborder trade and information sharing."
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "The increase in computer usage during the early 1970s highlights the growing importance of technology in economic and social exchanges."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           }
                                         ]
                                       },
                                       {
-                                        "cardName": "Mainframe Computers & Data Banks",
-                                        "cardType": "Technological Advancement",
-                                        "cardDesc": "The advent of mainframe computers enabled public administrations and large enterprises to set up extensive data banks, improving the collecting, processing, and sharing of personal information.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                          "cardName": "Mainframe Computers & Data Banks",
+                                          "cardType": "Technological Advancement",
+                                          "cardDesc": "The advent of mainframe computers enabled public administrations and large enterprises to set up extensive data banks, improving the collecting, processing, and sharing of personal information. This technological leap forward not only enhanced the capacity for data handling but also set the stage for the future of information technology, paving the way for the sophisticated data management systems we rely on today.",
+                                          "cardImg": "assets/images/privacy.png"
                                       },
                                       {
-                                        "cardName": "International Data Processing",
-                                        "cardType": "Global Impact",
-                                        "cardDesc": "The combination of computers and telecommunications opened new opportunities for data processing on an international scale, raising efficiency and productivity in various sectors.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                          "cardName": "International Data Processing",
+                                          "cardType": "Global Impact",
+                                          "cardDesc": "The combination of computers and telecommunications opened new opportunities for data processing on an international scale, raising efficiency and productivity in various sectors. This global integration of data processing capabilities facilitated unprecedented levels of communication and information exchange, contributing to the globalization of the economy and the seamless flow of information across continents.",
+                                          "cardImg": "assets/images/privacy.png"
                                       },
                                       {
-                                        "cardName": "Privacy Concerns",
-                                        "cardType": "Challenges",
-                                        "cardDesc": "The advancements in technology and international data processing raised concerns about the impact on individual privacy, especially with the transfer of personal information across international boundaries.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                          "cardName": "Privacy Concerns",
+                                          "cardType": "Challenges",
+                                          "cardDesc": "The advancements in technology and international data processing raised concerns about the impact on individual privacy, especially with the transfer of personal information across international boundaries. These concerns highlighted the need for stringent data protection measures and sparked a global conversation on privacy rights, leading to the development of legal frameworks aimed at safeguarding personal information in the digital age.",
+                                          "cardImg": "assets/images/privacy.png"
                                       },
                                       {
-                                        "cardName": "Legal Framework Evolution",
-                                        "cardType": "Legal Response",
-                                        "cardDesc": "Existing legal systems in Europe began adapting to the new technological landscape, recognizing the need for new standards to protect personal information while supporting free international trade.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                          "cardName": "Legal Framework Evolution",
+                                          "cardType": "Legal Response",
+                                          "cardDesc": "Existing legal systems in Europe began adapting to the new technological landscape, recognizing the need for new standards to protect personal information while supporting free international trade. This period of legal evolution aimed at striking a balance between individual privacy rights and the economic benefits of free information flow, leading to the establishment of comprehensive data protection regulations that continue to influence international legal standards.",
+                                          "cardImg": "assets/images/privacy.png"
                                       }
                                     ]
                                   }
