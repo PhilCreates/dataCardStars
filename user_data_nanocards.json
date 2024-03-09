@@ -4696,11 +4696,11 @@
                                     "image": "assets/images/cards0.png",
                                     "Stack": [
                                       {
-                                          "cardName": "Early Adoption of Computers",
-                                          "cardType": "Historical Context",
-                                          "cardDesc": "During the early 1970s, there was a significant increase in the use of computers to process information about individuals, facilitating transborder trade and information sharing within the European Economic Community (EEC).",
-                                          "cardImg": "https://cdn.vectorstock.com/i/preview-1x/35/52/placeholder-rgb-color-icon-vector-32173552.jpg",
-                                          "Quiz": [
+                                        "cardName": "Early Adoption of Computers",
+                                        "cardType": "Historical Context",
+                                        "cardDesc": "During the early 1970s, there was a significant increase in the use of computers to process information about individuals, facilitating transborder trade and information sharing within the European Economic Community (EEC).",
+                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "Quiz": [
                                           {
                                             "cardName": "Early Computers",
                                             "cardType": "History",
@@ -4784,28 +4784,28 @@
                                         ]
                                       },
                                       {
-                                          "cardName": "Mainframe Computers & Data Banks",
-                                          "cardType": "Technological Advancement",
-                                          "cardDesc": "The advent of mainframe computers enabled public administrations and large enterprises to set up extensive data banks, improving the collecting, processing, and sharing of personal information.",
-                                          "cardImg": "https://cdn.vectorstock.com/i/preview-1x/35/52/placeholder-rgb-color-icon-vector-32173552.jpg"
+                                        "cardName": "Mainframe Computers & Data Banks",
+                                        "cardType": "Technological Advancement",
+                                        "cardDesc": "The advent of mainframe computers enabled public administrations and large enterprises to set up extensive data banks, improving the collecting, processing, and sharing of personal information.",
+                                        "cardImg": "assets/images/image_placeholder.png"
                                       },
                                       {
-                                          "cardName": "International Data Processing",
-                                          "cardType": "Global Impact",
-                                          "cardDesc": "The combination of computers and telecommunications opened new opportunities for data processing on an international scale, raising efficiency and productivity in various sectors.",
-                                          "cardImg": "https://cdn.vectorstock.com/i/preview-1x/35/52/placeholder-rgb-color-icon-vector-32173552.jpg"
+                                        "cardName": "International Data Processing",
+                                        "cardType": "Global Impact",
+                                        "cardDesc": "The combination of computers and telecommunications opened new opportunities for data processing on an international scale, raising efficiency and productivity in various sectors.",
+                                        "cardImg": "assets/images/image_placeholder.png"
                                       },
                                       {
-                                          "cardName": "Privacy Concerns",
-                                          "cardType": "Challenges",
-                                          "cardDesc": "The advancements in technology and international data processing raised concerns about the impact on individual privacy, especially with the transfer of personal information across international boundaries.",
-                                          "cardImg": "https://cdn.vectorstock.com/i/preview-1x/35/52/placeholder-rgb-color-icon-vector-32173552.jpg"
+                                        "cardName": "Privacy Concerns",
+                                        "cardType": "Challenges",
+                                        "cardDesc": "The advancements in technology and international data processing raised concerns about the impact on individual privacy, especially with the transfer of personal information across international boundaries.",
+                                        "cardImg": "assets/images/image_placeholder.png"
                                       },
                                       {
-                                          "cardName": "Legal Framework Evolution",
-                                          "cardType": "Legal Response",
-                                          "cardDesc": "Existing legal systems in Europe began adapting to the new technological landscape, recognizing the need for new standards to protect personal information while supporting free international trade.",
-                                          "cardImg": "https://cdn.vectorstock.com/i/preview-1x/35/52/placeholder-rgb-color-icon-vector-32173552.jpg"
+                                        "cardName": "Legal Framework Evolution",
+                                        "cardType": "Legal Response",
+                                        "cardDesc": "Existing legal systems in Europe began adapting to the new technological landscape, recognizing the need for new standards to protect personal information while supporting free international trade.",
+                                        "cardImg": "assets/images/image_placeholder.png"
                                       }
                                     ]
                                   }
