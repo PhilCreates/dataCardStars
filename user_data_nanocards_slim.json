@@ -1,0 +1,157 @@
+{
+  "Users": {
+    "def": {
+      "Content": {
+        "Decks": {
+          "Die Leiden des jungen Werther":
+            {
+              "image": "https://static.thenounproject.com/png/1355880-200.png",
+              "Cards": [
+                {
+                  "cardName": "Ankunft im Dorf",
+                  "cardType": "Buch",
+                  "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindr\u00fccken.",
+                  "cardImg": "assets/images/def/ankunft_im_dorf.jpg",
+                  "Quiz": [
+                    {
+                      "cardName": "Frage 1",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Wie hei\u00dft das Dorf, in dem Werther ankommt?",
+                        "cardQuizOptions": {
+                          "a": "Wetzlar",
+                          "b": "Weimar"
+                        },
+                        "cardQuizSolution": "a",
+                        "cardQuizExplanation": "Werther kommt im Dorf 'Wetzlar' an und beginnt dort seinen Aufenthalt."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 2",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Welche Landschaft beeindruckt Werther bei seiner Ankunft?",
+                        "cardQuizOptions": {
+                          "a": "Gebirge",
+                          "b": "Flussufer"
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Werther ist bei seiner Ankunft am Flussufer beeindruckt von der malerischen Landschaft."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 3",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Was ist Werthers erster Eindruck von den Dorfbewohnern?",
+                        "cardQuizOptions": {
+                          "a": "Sie sind freundlich und aufgeschlossen.",
+                          "b": "Sie sind distanziert und reserviert."
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Werther empfindet die Dorfbewohner bei seiner Ankunft als distanziert und reserviert."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "cardName": "Begegnung mit Lotte",
+                  "cardType": "Buch",
+                  "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gef\u00fchlen f\u00fcr sie.",
+                  "cardImg": "assets/images/def/lotte.jpg",
+                  "Quiz": [
+                    {
+                      "cardName": "Frage 1",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Welchen Eindruck hinterl\u00e4sst Lotte auf Werther bei ihrer ersten Begegnung?",
+                        "cardQuizOptions": {
+                          "a": "Sie ist unh\u00f6flich und abweisend.",
+                          "b": "Sie ist freundlich und bezaubernd."
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Lotte hinterl\u00e4sst auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 2",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Welche Blume verbindet Werther mit Lotte?",
+                        "cardQuizOptions": {
+                          "a": "Rosen",
+                          "b": "Veilchen"
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Werther verbindet die Blume 'Veilchen' mit Lotte, da sie ihm diese in Erinnerung bleibt."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 3",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Was empfindet Werther f\u00fcr Lotte nach ihrer ersten Begegnung?",
+                        "cardQuizOptions": {
+                          "a": "Geschwisterliche Liebe",
+                          "b": "Leidenschaftliche Liebe"
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe f\u00fcr Lotte."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "cardName": "Werthers Trag\u00f6die",
+                  "cardType": "Buch",
+                  "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
+                  "cardImg": "assets/images/def/werther.jpg",
+                  "Quiz": [
+                    {
+                      "cardName": "Frage 1",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Was f\u00fchrt letztendlich zu Werthers tragischem Ende?",
+                        "cardQuizOptions": {
+                          "a": "Ein Unfall",
+                          "b": "Liebeskummer und Selbstmord"
+                        },
+                        "cardQuizSolution": "b",
+                        "cardQuizExplanation": "Werthers tragisches Ende resultiert aus Liebeskummer und seinem Selbstmord."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 2",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
+                        "cardQuizOptions": {
+                          "a": "Hoffnung",
+                          "b": "Zerst\u00f6rung"
+                        },
+                        "cardQuizSolution": "a",
+                        "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
+                      }
+                    },
+                    {
+                      "cardName": "Frage 3",
+                      "cardType": "Question",
+                      "cardQuiz": {
+                        "cardQuizQuestion": "Warum kann Werther seine Liebe zu Lotte nicht leben?",
+                        "cardQuizOptions": {
+                          "a": "Lotte ist bereits verheiratet.",
+                          "b": "Lotte liebt einen anderen Mann."
+                        },
+                        "cardQuizSolution": "a",
+                        "cardQuizExplanation": "Werther kann seine Liebe zu Lotte nicht leben, da diese bereits verheiratet ist und er darunter leidet."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+      }
+    }
+  }
+}
