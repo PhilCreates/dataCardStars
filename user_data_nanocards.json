@@ -16318,112 +16318,128 @@
                                         ]
                                       },
                                       {
-                                        "cardName": "Die finnischen Saunatraditionen",
+                                        "cardName": "Vielfalt Europas",
                                         "cardType": "Kulturelles Erbe",
-                                        "cardDesc": "Die finnische Sauna ist weit mehr als nur ein Raum oder eine Aktivit\u00e4t \u2013 es ist eine tief verwurzelte Tradition, die bis in die finnische Urgeschichte zur\u00fcckreicht. In Finnland, einem Land mit etwa 5,5 Millionen Einwohnern und \u00fcber 2 Millionen Saunen, ist die Sauna ein zentraler Bestandteil des kulturellen Erbes, der sozialen Interaktion und des Wohlbefindens. Sie symbolisiert Reinigung und Regeneration auf physischer sowie spiritueller Ebene. Diese Tradition unterstreicht die finnische Beziehung zur Natur, zur Gesundheit und zur Gemeinschaft und wurde 2020 in die UNESCO-Liste des immateriellen Kulturerbes aufgenommen.",
-                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "cardDesc": "Um diese Vielfalt in Europa zu bewahren, ist es wichtig, dass die verschiedenen Sitten und Bräuche im Rahmen der Grundrechte von anderen auch toleriert werden und die eigenen Sitten und religiösen Überzeugungen anderen nicht aufgezwungen werden.",
+                                        "cardImg": "assets/videos/2_5_vielfalt_europas.mp4",
                                         "Quiz": [
                                           {
-                                            "cardName": "Finnische Sauna - Anf\u00e4nge",
-                                            "cardType": "Kulturelles Erbe",
+                                            "cardName": "Sprachenvielfalt in Europa",
+                                            "cardType": "Kulturelle Praxis",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "In welchem Jahrhundert entstanden die ersten finnischen Saunen?",
+                                              "cardQuizQuestion": "Wie viele verschiedene Sprachen werden in Europa gesprochen?",
                                               "cardQuizOptions": {
-                                                "a": "Im 5. Jahrhundert",
-                                                "b": "Im 7. Jahrhundert",
-                                                "c": "Im 9. Jahrhundert",
-                                                "d": "Im 12. Jahrhundert"
-                                              },
-                                              "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Die ersten finnischen Saunen entstanden wahrscheinlich im 7. Jahrhundert."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          },
-                                          {
-                                            "cardName": "Sauna-Rituale",
-                                            "cardType": "Kulturelles Erbe",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "Welches Ritual wird traditionell in finnischen Saunen durchgef\u00fchrt, um schlechte Geister zu vertreiben?",
-                                              "cardQuizOptions": {
-                                                "a": "Vasta oder Vihta benutzen",
-                                                "b": "Eisbaden",
-                                                "c": "Lautes Singen",
-                                                "d": "Peeling mit Salz"
-                                              },
-                                              "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Das Benutzen eines Vasta oder Vihta (ein B\u00fcndel frischer Birkenzweige) ist ein traditionelles Ritual in finnischen Saunen, das dazu dient, den K\u00f6rper zu reinigen und schlechte Geister zu vertreiben."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          },
-                                          {
-                                            "cardName": "Saunatypen",
-                                            "cardType": "Kulturelles Erbe",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "Welcher Saunatyp ist traditionell f\u00fcr finnische Saunen am charakteristischsten?",
-                                              "cardQuizOptions": {
-                                                "a": "Dampfsauna",
-                                                "b": "Elektrische Sauna",
-                                                "c": "Holzbeheizte Sauna",
-                                                "d": "Infrarotsauna"
+                                                "a": "Über 20",
+                                                "b": "Über 40",
+                                                "c": "Über 60",
+                                                "d": "Über 80"
                                               },
                                               "cardQuizSolution": "c",
-                                              "cardQuizExplanation": "Die holzbeheizte Sauna gilt als der traditionellste und charakteristischste Saunatyp in Finnland."
+                                              "cardQuizExplanation": "In Europa werden über 60 verschiedene Sprachen gesprochen, was die große kulturelle und sprachliche Vielfalt des Kontinents widerspiegelt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Traditionen in Europa",
+                                            "cardType": "Kulturelle Praxis",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Warum haben die verschiedenen Regionen Europas eigene Traditionen entwickelt?",
+                                              "cardQuizOptions": {
+                                                "a": "Wegen der verschiedenen Klimazonen",
+                                                "b": "Aufgrund der geschichtlichen Entwicklung und geografischen Gegebenheiten",
+                                                "c": "Wegen der unterschiedlichen Ernährung",
+                                                "d": "Aufgrund der Sprachbarrieren"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Traditionen der verschiedenen Regionen Europas haben sich aufgrund der geschichtlichen Entwicklung und geografischen Gegebenheiten entwickelt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Kulturelle Vielfalt bewahren",
+                                            "cardType": "Kulturelle Praxis",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Warum ist es wichtig, die verschiedenen Sitten und Bräuche in Europa zu tolerieren?",
+                                              "cardQuizOptions": {
+                                                "a": "Um Konflikte zu vermeiden",
+                                                "b": "Um den Tourismus zu fördern",
+                                                "c": "Um die kulturelle Vielfalt zu bewahren",
+                                                "d": "Um Handelsbeziehungen zu stärken"
+                                              },
+                                              "cardQuizSolution": "c",
+                                              "cardQuizExplanation": "Es ist wichtig, die verschiedenen Sitten und Bräuche zu tolerieren, um die kulturelle Vielfalt in Europa zu bewahren."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Zusammenwachsen Europas",
+                                            "cardType": "Kulturelle Praxis",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was zeichnet Europa als Kontinent aus?",
+                                              "cardQuizOptions": {
+                                                "a": "Einheitliche Kultur",
+                                                "b": "Einheitliche Sprache",
+                                                "c": "Reichtum, Vielfalt und kulturelle Prägung",
+                                                "d": "Einheitliche politische Systeme"
+                                              },
+                                              "cardQuizSolution": "c",
+                                              "cardQuizExplanation": "Europa zeichnet sich durch seinen Reichtum, seine Vielfalt und seine kulturelle Prägung aus, während es gleichzeitig immer mehr zusammenwächst."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           }
                                         ]
                                       },
                                       {
-                                        "cardName": "Das Portugiesische Fado-Genre",
-                                        "cardType": "Musikalische Ausdrucksform",
-                                        "cardDesc": "Fado ist ein portugiesisches Musikgenre, das sich irgendwann im 19. Jahrhundert in Lissabon herausbildete. Es ist gekennzeichnet durch melancholische Melodien und Texte, die oft vom Meer, dem Leben der Armen und der Sehnsucht (Saudade) handeln. Diese musikalische Form erm\u00f6glicht einen Einblick in die portugiesische Seele, die durch ein tiefes Gef\u00fchl von Wehmut und unausl\u00f6schlichen Eindr\u00fccken der Geschichte und Seefahrt gepr\u00e4gt ist. Fado wurde 2011 von der UNESCO als immaterielles Kulturerbe der Menschheit anerkannt und spiegelt die kulturelle Vielfalt Europas und die Verbindung zwischen Vergangenheit, Gegenwart und Zukunft wider.",
-                                        "cardImg": "assets/images/image_placeholder.png",
+                                        "cardName": "Vielfalt Europas",
+                                        "cardType": "Kulturelle Praxis",
+                                        "cardDesc": "Wir leben auf einem reichen, vielfältigen und kulturell geprägten Kontinent, einem Europa, das immer mehr zusammenwächst.",
+                                        "cardImg": "assets/videos/2_5_vielfalt_europas.mp4",
                                         "Quiz": [
                                           {
-                                            "cardName": "Urspr\u00fcnge des Fado",
-                                            "cardType": "Musikgenre",
+                                            "cardName": "Sprachenvielfalt in Europa",
+                                            "cardType": "Kulturelle Praxis",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "In welchem Jahrhundert entstand das portugiesische Fado-Genre?",
+                                              "cardQuizQuestion": "Wie viele verschiedene Sprachen werden in Europa gesprochen?",
                                               "cardQuizOptions": {
-                                                "a": "Im 16. Jahrhundert",
-                                                "b": "Im 17. Jahrhundert",
-                                                "c": "Im 18. Jahrhundert",
-                                                "d": "Im 19. Jahrhundert"
+                                                "a": "Über 30",
+                                                "b": "Über 40",
+                                                "c": "Über 50",
+                                                "d": "Über 60"
                                               },
-                                              "cardQuizSolution": "c",
-                                              "cardQuizExplanation": "Das Fado-Genre hat seine Wurzeln im 18. Jahrhundert, obwohl es erst im 19. Jahrhundert popul\u00e4r wurde."
+                                              "cardQuizSolution": "d",
+                                              "cardQuizExplanation": "In Europa werden über 60 verschiedene Sprachen gesprochen, was die enorme Sprachenvielfalt auf diesem Kontinent unterstreicht."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
                                           {
-                                            "cardName": "Instrumente im Fado",
-                                            "cardType": "Musikinstrumente",
+                                            "cardName": "Toleranz von Sitten und Bräuchen",
+                                            "cardType": "Kulturelle Praxis",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Welches Hauptinstrument wird im Fado verwendet, um die melancholische Stimmung zu unterstreichen?",
+                                              "cardQuizQuestion": "Warum ist es wichtig, verschiedene Sitten und Bräuche in Europa zu tolerieren?",
                                               "cardQuizOptions": {
-                                                "a": "Gitarra Portuguesa",
-                                                "b": "Violine",
-                                                "c": "Klavier",
-                                                "d": "Akkordeon"
+                                                "a": "Um kulturelle Missverständnisse zu vermeiden",
+                                                "b": "Um die Grundrechte zu wahren",
+                                                "c": "Um religiöse Überzeugungen zu fördern",
+                                                "d": "Um die Einheit Europas zu stärken"
                                               },
-                                              "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Die 'Gitarra Portuguesa', eine spezifische Form der portugiesischen Gitarre, ist das charakteristische Instrument des Fado und tr\u00e4gt zur einzigartig melancholischen Atmosph\u00e4re bei."
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Es ist wichtig, die verschiedenen Sitten und Bräuche zu tolerieren, um die Grundrechte zu wahren und sicherzustellen, dass niemand seine eigenen Sitten und religiösen Überzeugungen anderen aufzwingt."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
                                           {
-                                            "cardName": "Bekannte Fado-S\u00e4ngerin",
-                                            "cardType": "K\u00fcnstler",
+                                            "cardName": "Kulturelle Vielfalt in Europa",
+                                            "cardType": "Kulturelle Praxis",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Wer gilt als eine der ber\u00fchmtesten Fado-S\u00e4ngerinnen, bekannt f\u00fcr ihre tiefe emotionale Ausdruckskraft?",
+                                              "cardQuizQuestion": "Was macht Europa zu einem kulturell geprägten Kontinent?",
                                               "cardQuizOptions": {
-                                                "a": "Ces\u00e1ria \u00c9vora",
-                                                "b": "Dulce Pontes",
-                                                "c": "Am\u00e1lia Rodrigues",
-                                                "d": "Mariza"
+                                                "a": "Die geografische Lage",
+                                                "b": "Die politische Geschichte",
+                                                "c": "Die sprachliche und kulturelle Vielfalt",
+                                                "d": "Die wirtschaftliche Stärke"
                                               },
                                               "cardQuizSolution": "c",
-                                              "cardQuizExplanation": "Am\u00e1lia Rodrigues wird oft als die 'K\u00f6nigin des Fado' bezeichnet und ist f\u00fcr ihre bedeutsame Rolle in der Popularisierung des Fado-Genres weltweit bekannt."
+                                              "cardQuizExplanation": "Europa ist ein kulturell geprägter Kontinent aufgrund seiner sprachlichen und kulturellen Vielfalt, die sich aus der geschichtlichen Entwicklung und den geografischen Gegebenheiten ergibt."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           }
