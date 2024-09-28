@@ -15077,7 +15077,7 @@
                           },
                           {
                             "name": "Bulumu-Planet",
-                            "image": "assets/images/boxes0.png",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Bulumu-Planet.jpg",
                             "Decks": [
                               {
                                 "name": "Gwahn",
@@ -15088,22 +15088,40 @@
                                     "image": "assets/images/cards0.png",
                                     "Stack": [
 {
-                                        "cardName": "Gwahn",
-                                        "cardType": "Bulumu-Planet",
-                                        "cardDesc": "Gwahn ist eine der gr\u00f6\u00dften Stinsst\u00e4dte auf Bulumu-Planet. Sie ist bekannt f\u00fcr ihre pr\u00e4chtigen Tempel und Pal\u00e4ste, die von den besten Architekten des Planeten entworfen wurden. Die Stadt ist ein Zentrum f\u00fcr Kunst, Kultur und Wissenschaft und beherbergt einige der renommiertesten Universit\u00e4ten und Forschungseinrichtungen des Planeten. Gwahn ist auch ein wichtiger Handelsknotenpunkt und zieht H\u00e4ndler und Reisende aus der ganzen Galaxie an.",
-                                        "cardImg": "https://ai4future.net/cardview/images/card.png"
+                                        "cardName": "Stins und Stinza",
+                                        "cardType": "Kreaturen",
+                                        "cardDesc": "Stins und Stinza sind farbige Schweine, die in Stinsstadt auf dem Bulumu-Planeten wohnen.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Bulumu-Planet.jpg"
                                       },
                                       {
-                                        "cardName": "Tempel des Wissens",
-                                        "cardType": "Bulumu-Planet",
-                                        "cardDesc": "Der Tempel des Wissens ist eine der \u00e4ltesten und ehrw\u00fcrdigsten Bildungseinrichtungen auf Bulumu-Planet. Er beherbergt eine umfangreiche Bibliothek mit alten Schriften, Artefakten und Wissen aus allen Ecken der Galaxie. Die Gelehrten des Tempels sind daf\u00fcr bekannt, bahnbrechende Entdeckungen und Erfindungen zu machen, die das Verst\u00e4ndnis des Universums erweitern. Der Tempel ist ein Ort der Ruhe und Kontemplation, an dem Wissen und Weisheit gefeiert werden.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                        "cardName": "Standtier",
+                                        "cardType": "Kreatur",
+                                        "cardDesc": "Das Strandtier ist eine Kreatur, die mit ihren Siebkrallen, den Strand säubern kann.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Strandtier.jpg"
                                       },
                                       {
-                                        "cardName": "Akademie der K\u00fcnste",
-                                        "cardType": "Bulumu-Planet",
-                                        "cardDesc": "Die Akademie der K\u00fcnste ist eine renommierte Institution f\u00fcr Kunst und Kultur auf Bulumu-Planet. Sie bietet eine Vielzahl von Kursen und Programmen in den Bereichen Malerei, Musik, Tanz, Theater und Literatur an. Die Sch\u00fcler und Studenten der Akademie werden von einigen der talentiertesten K\u00fcnstler und Lehrer des Planeten unterrichtet und haben die M\u00f6glichkeit, ihre F\u00e4higkeiten und Kreativit\u00e4t zu entfalten. Die Akademie ist ein Ort der Inspiration und Innovation, an dem die Grenzen der Kunst st\u00e4ndig neu definiert werden.",
-                                        "cardImg": "assets/images/image_placeholder.png"
+                                        "cardName": "Dose Grong-Grong",
+                                        "cardType": "Kreatur",
+                                        "cardDesc": "Die Dose Grong-Grong ist eine Kreatur aus Stinsstadt, die auf der Erde die Menschen auf ihr Müllproblem aufmerksam macht.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Dose_Grong_Grong.jpg"
+                                      },
+                                      {
+                                        "cardName": "Ordocha",
+                                        "cardType": "Kreatur",
+                                        "cardDesc": "Die Ordocha ist ein Edelstein, der sehr ordnungslieb ist.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Ordocha.jpg"
+                                      },
+                                      {
+                                        "cardName": "Chaordo",
+                                        "cardType": "Kreatur",
+                                        "cardDesc": "Der Chaordo ist ein Wirbelwind, der sehr chaotisch ist.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Chaordo.jpg"
+                                      },
+                                      {
+                                        "cardName": "Ennos",
+                                        "cardType": "Kreatur",
+                                        "cardDesc": "Ennos ist der Stern, um den der Bulumu-Planet kreist.",
+                                        "cardImg": "https://ai4future.net/cardview/images/cards/bulumu/Ennos.jpg"
                                       }
                                     ]
                                   }
