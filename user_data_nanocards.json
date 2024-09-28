@@ -15135,6 +15135,31 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Stins und Stinza",
+              "image": "https://ai4future.net/cardview/images/cards/bulumu/Bulumu-Planet.jpg",
+              "Cases": []
+            },
+            {
+              "name": "Strandtier",
+              "image": "https://ai4future.net/cardview/images/cards/bulumu/Strandtier.jpg",
+              "Cases": []
+            },
+            {
+              "name": "Dose Grong-Grong",
+              "image": "https://ai4future.net/cardview/images/cards/bulumu/Dose_Grong_Grong.jpg",
+              "Cases": []
+            },
+            {
+              "name": "Ordocha",
+              "image": "https://ai4future.net/cardview/images/cards/bulumu/Ordocha.jpg",
+              "Cases": []
+            },
+            {
+              "name": "Chaordo",
+              "image": "https://ai4future.net/cardview/images/cards/bulumu/Chaordo.jpg",
+              "Cases": []
             }
           ]
         }
