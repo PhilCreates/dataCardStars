@@ -15128,6 +15128,31 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "name": "Stins und Stinza",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Stins_und_Stinza.jpg",
+                            "Decks": []
+                          },
+                          {
+                            "name": "Strandtier",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Strandtier.jpg",
+                            "Decks": []
+                          },
+                          {
+                            "name": "Dose Grong-Grong",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Dose_Grong_Grong.jpg",
+                            "Decks": []
+                          },
+                          {
+                            "name": "Ordocha",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Ordocha.jpg",
+                            "Decks": []
+                          },
+                          {
+                            "name": "Chaordo",
+                            "image": "https://ai4future.net/cardview/images/cards/bulumu/Chaordo.jpg",
+                            "Decks": []
                           }
                         ]
                       }
